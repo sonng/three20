@@ -79,8 +79,7 @@
     "file": "LICENSE"
   },
   "source": {
-    "git": "https://github.com/MaxChuquimia/three20",
-    "tag": "1.0.11"
+    "git": "https://github.com/MaxChuquimia/three20"
   },
   "platforms": {
     "ios": null
