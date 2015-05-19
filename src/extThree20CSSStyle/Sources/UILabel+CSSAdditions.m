@@ -13,10 +13,10 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 //
-#import "extThree20CSSStyle/UILabel+CSSAdditions.h"
+#import "UILabel+CSSAdditions.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "TTCorePreprocessorMacros.h"
 
 #ifdef __IPHONE_3_2
 #import <QuartzCore/QuartzCore.h>

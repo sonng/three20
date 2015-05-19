@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-#import "extThree20CSSStyle/TTCSSRuleSet.h"
+#import "TTCSSRuleSet.h"
 
 /**
  * TTCSSApplyProtocol defines an common interface to classes that style itself

@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-#import "extThree20CSSStyle/UIView+CSSAdditions.h"
-#import "extThree20CSSStyle/TTDefaultCSSStyleSheet.h"
-#import "extThree20CSSStyle/TTCSSGlobalStyle.h"
+#import "UIView+CSSAdditions.h"
+#import "TTDefaultCSSStyleSheet.h"
+#import "TTCSSGlobalStyle.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTGlobalCorePaths.h"
+#import "TTCorePreprocessorMacros.h"
+#import "TTGlobalCorePaths.h"
 
 /**
  * Additions.

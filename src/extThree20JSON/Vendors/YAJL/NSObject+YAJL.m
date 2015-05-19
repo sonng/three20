@@ -27,12 +27,12 @@
 //  OTHER DEALINGS IN THE SOFTWARE.
 //
 
-#import "extThree20JSON/NSObject+YAJL.h"
-#import "extThree20JSON/YAJLGen.h"
-#import "extThree20JSON/YAJLDocument.h"
+#import "NSObject+YAJL.h"
+#import "YAJLGen.h"
+#import "YAJLDocument.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "TTCorePreprocessorMacros.h"
 
 TT_FIX_CATEGORY_BUG(NSObject_YAJL)
 

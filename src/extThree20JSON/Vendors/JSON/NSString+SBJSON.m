@@ -27,11 +27,11 @@
  OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  */
 
-#import "extThree20JSON/NSString+SBJSON.h"
-#import "extThree20JSON/SBJsonParser.h"
+#import "NSString+SBJSON.h"
+#import "SBJsonParser.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "TTCorePreprocessorMacros.h"
 
 
 TT_FIX_CATEGORY_BUG(NSString_SBJSON)

@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-#import "extThree20CSSStyle/TTCSSParser.h"
+#import "TTCSSParser.h"
 
-#import "extThree20CSSStyle/private/CssTokens.h"
+#import "CssTokens.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTDebug.h"
+#import "TTCorePreprocessorMacros.h"
+#import "TTDebug.h"
 
 
 typedef enum {

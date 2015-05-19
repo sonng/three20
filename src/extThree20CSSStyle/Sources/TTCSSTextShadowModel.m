@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-#import "extThree20CSSStyle/TTCSSTextShadowModel.h"
-#import "extThree20CSSStyle/TTCSSFunctions.h"
+#import "TTCSSTextShadowModel.h"
+#import "TTCSSFunctions.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTGlobalCore.h"
-#import "Three20Core/TTDebug.h"
+#import "TTCorePreprocessorMacros.h"
+#import "TTGlobalCore.h"
+#import "TTDebug.h"
 
 @implementation TTCSSTextShadowModel
 @synthesize shadowOffset, shadowColor, shadowBlur;

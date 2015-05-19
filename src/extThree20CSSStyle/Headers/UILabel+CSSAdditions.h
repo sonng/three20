@@ -15,7 +15,7 @@
 //
 #import <UIKit/UIKit.h>
 
-#import "extThree20CSSStyle/UIView+CSSAdditions.h"
+#import "UIView+CSSAdditions.h"
 
 @interface UILabel(TTCSSAdditions)
 @end

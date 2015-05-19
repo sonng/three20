@@ -27,7 +27,7 @@
 //  OTHER DEALINGS IN THE SOFTWARE.
 //
 
-#import "extThree20JSON/YAJLParser.h"
+#import "YAJLParser.h"
 
 /*!
  Utilities for loading JSON from resource bundles.

@@ -17,7 +17,7 @@
 #import "StyleSheetViewController.h"
 
 #import "SampleCSSStyleSheet.h"
-#import "extThree20CSSStyle/TTCSSRuleSet.h"
+#import "TTCSSRuleSet.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

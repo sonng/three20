@@ -15,4 +15,4 @@
 //
 
 // For compatibility issues we import the UILabel additions.
-#import "extThree20CSSStyle/UILabel+CSSAdditions.h"
+#import "UILabel+CSSAdditions.h"

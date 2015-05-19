@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "Three20Style/TTTextStyle.h"
+#import "TTTextStyle.h"
 
 @interface TTTextStyle (TTCSSCategory)
 

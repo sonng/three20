@@ -28,7 +28,7 @@
 //
 
 
-#import "extThree20JSON/YAJLParser.h"
+#import "YAJLParser.h"
 
 NSString *const YAJLErrorDomain = @"YAJLErrorDomain";
 NSString *const YAJLParserException = @"YAJLParserException";

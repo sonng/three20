@@ -6,7 +6,7 @@
 //  Copyright 2009. All rights reserved.
 //
 
-#import "extThree20JSON/private/GHNSBundle+Utils.h"
+#import "GHNSBundle+Utils.h"
 
 @implementation NSBundle (YAJL_GHUtils)
 

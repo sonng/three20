@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "Three20Style/TTShadowStyle.h"
+#import "TTShadowStyle.h"
 
 @interface TTShadowStyle (TTCSSCategory)
 

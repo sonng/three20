@@ -19,13 +19,13 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // UINavigator
-#import "Three20UINavigator/UIViewController+TTNavigator.h"
+#import "UIViewController+TTNavigator.h"
 
 // UICommon
-#import "Three20UICommon/UIViewControllerAdditions.h"
+#import "UIViewControllerAdditions.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "TTCorePreprocessorMacros.h"
 
 @interface UIViewControllerAdditionTests : SenTestCase {
 }

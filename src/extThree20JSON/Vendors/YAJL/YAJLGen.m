@@ -27,8 +27,8 @@
 //  OTHER DEALINGS IN THE SOFTWARE.
 //
 
-#import "extThree20JSON/YAJLGen.h"
-#import "extThree20JSON/private/GTMBase64.h"
+#import "YAJLGen.h"
+#import "GTMBase64.h"
 
 NSString *const YAJLGenInvalidObjectException = @"YAJLGenInvalidObjectException";
 

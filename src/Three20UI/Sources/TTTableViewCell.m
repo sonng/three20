@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTTableViewCell.h"
+#import "TTTableViewCell.h"
 
 // UICommon
-#import "Three20UICommon/TTGlobalUICommon.h"
+#import "TTGlobalUICommon.h"
 
 const CGFloat   kTableCellSmallMargin = 6.0f;
 const CGFloat   kTableCellSpacing     = 8.0f;

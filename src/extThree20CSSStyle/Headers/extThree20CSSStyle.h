@@ -15,18 +15,18 @@
 //
 
 // CSS Parser
-#import "extThree20CSSStyle/TTCSSParser.h"
+#import "TTCSSParser.h"
 
 // CSS Stylesheet
-#import "extThree20CSSStyle/TTCSSGlobalStyle.h"
-#import "extThree20CSSStyle/TTCSSStyleSheet.h"
-#import "extThree20CSSStyle/TTDefaultCSSStyleSheet.h"
+#import "TTCSSGlobalStyle.h"
+#import "TTCSSStyleSheet.h"
+#import "TTDefaultCSSStyleSheet.h"
 
 // CSS Models
-#import "extThree20CSSStyle/TTCSSTextShadowModel.h"
-#import "extThree20CSSStyle/TTCSSRuleSet.h"
+#import "TTCSSTextShadowModel.h"
+#import "TTCSSRuleSet.h"
 
 // Data Processing
-#import "extThree20CSSStyle/TTDataConverter.h"
-#import "extThree20CSSStyle/TTDataPopulator.h"
-#import "extThree20CSSStyle/TTDataPopulatorDelegate.h"
+#import "TTDataConverter.h"
+#import "TTDataPopulator.h"
+#import "TTDataPopulatorDelegate.h"
