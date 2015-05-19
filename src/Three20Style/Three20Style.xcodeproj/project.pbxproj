@@ -68,7 +68,7 @@
 		6EE737791184A38F00A35176 /* TTStyledTextFrame.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EE737381184A38F00A35176 /* TTStyledTextFrame.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6EE7377B1184A38F00A35176 /* TTStyledTextNode.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EE7373A1184A38F00A35176 /* TTStyledTextNode.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6EE7377C1184A38F00A35176 /* TTStyledTextParser.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EE7373B1184A38F00A35176 /* TTStyledTextParser.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		6EE7377F1184A38F00A35176 /* TTStyleInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EE7373E1184A38F00A35176 /* TTStyleInternal.h */; settings = {ATTRIBUTES = (Private, ); }; };
+		6EE7377F1184A38F00A35176 /* TTStyleInternal.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EE7373E1184A38F00A35176 /* TTStyleInternal.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6EE737801184A38F00A35176 /* TTStyleSheet.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EE7373F1184A38F00A35176 /* TTStyleSheet.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6EE737811184A38F00A35176 /* TTTextStyle.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EE737401184A38F00A35176 /* TTTextStyle.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		6EE737821184A38F00A35176 /* UIColorAdditions.h in Headers */ = {isa = PBXBuildFile; fileRef = 6EE737411184A38F00A35176 /* UIColorAdditions.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -849,7 +849,7 @@
 			name = Three20StyleUnitTests;
 			productName = CoreUnitTests;
 			productReference = EB9E6C6210B6A8F800DE563C /* StyleUnitTests.octest */;
-			productType = "com.apple.product-type.bundle";
+			productType = "com.apple.product-type.bundle.ocunit-test";
 		};
 /* End PBXNativeTarget section */
 
