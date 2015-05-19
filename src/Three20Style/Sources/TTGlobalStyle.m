@@ -14,6 +14,6 @@
 // limitations under the License.
 //
 
-#import "Three20Style/TTGlobalStyle.h"
+TTGlobalStyle.h
 
 const CGFloat ttkRounded = -1.0f;

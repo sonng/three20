@@ -15,7 +15,7 @@
 //
 
 // UI
-#import "Three20UI/TTButton.h"
+TTButton.h
 
 @interface TTErrorView : UIView {
   UIImageView*  _imageView;

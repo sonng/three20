@@ -27,9 +27,9 @@
 //  OTHER DEALINGS IN THE SOFTWARE.
 //
 
-#import "extThree20JSON/YAJLParser.h"
-#import "extThree20JSON/YAJLDocument.h"
-#import "extThree20JSON/YAJLGen.h"
+YAJLParser.h
+YAJLDocument.h
+YAJLGen.h
 #import "extThree20JSON/NSObject+YAJL.h"
 #import "extThree20JSON/NSBundle+YAJL.h"
 

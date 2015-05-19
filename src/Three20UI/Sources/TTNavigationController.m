@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTNavigationController.h"
+TTNavigationController.h
 
 // Network
-#import "Three20Network/TTURLRequestQueue.h"
+TTURLRequestQueue.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

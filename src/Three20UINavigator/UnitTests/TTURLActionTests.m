@@ -19,10 +19,10 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // UINavigator
-#import "Three20UINavigator/TTURLAction.h"
+TTURLAction.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 @interface TTURLActionTests : SenTestCase {
 }

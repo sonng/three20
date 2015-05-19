@@ -15,7 +15,7 @@
 //
 
 // UI
-#import "Three20UI/TTTabBar.h"
+TTTabBar.h
 
 @interface TTTabStrip : TTTabBar <UIScrollViewDelegate> {
 @private

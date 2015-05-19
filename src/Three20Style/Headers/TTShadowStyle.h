@@ -15,7 +15,7 @@
 //
 
 // Style
-#import "Three20Style/TTStyle.h"
+TTStyle.h
 
 @interface TTShadowStyle : TTStyle {
   UIColor*  _color;

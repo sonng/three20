@@ -15,7 +15,7 @@
 //
 
 // Style
-#import "Three20Style/TTLayout.h"
+TTLayout.h
 
 @interface TTGridLayout : TTLayout {
   NSInteger _columnCount;

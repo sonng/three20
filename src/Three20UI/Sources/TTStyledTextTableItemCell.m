@@ -14,21 +14,21 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTStyledTextTableItemCell.h"
+TTStyledTextTableItemCell.h
 
 // UI
-#import "Three20UI/TTStyledTextLabel.h"
-#import "Three20UI/TTTableStyledTextItem.h"
-#import "Three20UI/UITableViewAdditions.h"
-#import "Three20UI/UIViewAdditions.h"
+TTStyledTextLabel.h
+TTTableStyledTextItem.h
+UITableViewAdditions.h
+UIViewAdditions.h
 
 // Style
-#import "Three20Style/TTGlobalStyle.h"
-#import "Three20Style/TTDefaultStyleSheet.h"
-#import "Three20Style/TTStyledText.h"
+TTGlobalStyle.h
+TTDefaultStyleSheet.h
+TTStyledText.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 static const CGFloat kDisclosureIndicatorWidth = 23.0f;
 

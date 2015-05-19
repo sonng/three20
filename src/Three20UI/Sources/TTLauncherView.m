@@ -14,34 +14,34 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTLauncherView.h"
+TTLauncherView.h
 
 // UI
-#import "Three20UI/TTLauncherButton.h"
-#import "Three20UI/TTLauncherItem.h"
-#import "Three20UI/TTLauncherViewDelegate.h"
-#import "Three20UI/TTPageControl.h"
-#import "Three20UI/UIViewAdditions.h"
+TTLauncherButton.h
+TTLauncherItem.h
+TTLauncherViewDelegate.h
+TTPageControl.h
+UIViewAdditions.h
 
 
 // UI (private)
-#import "Three20UI/private/TTLauncherScrollView.h"
-#import "Three20UI/private/TTLauncherHighlightView.h"
+TTLauncherScrollView.h
+TTLauncherHighlightView.h
 
 // UICommon
-#import "Three20UICommon/TTGlobalUICommon.h"
+TTGlobalUICommon.h
 
 // Style
-#import "Three20Style/TTGlobalStyle.h"
+TTGlobalStyle.h
 
 // Network
-#import "Three20Network/TTURLRequest.h"
-#import "Three20Network/TTUserInfo.h"
+TTURLRequest.h
+TTUserInfo.h
 
 // Core
-#import "Three20Core/TTDebug.h"
-#import "Three20Core/TTDebugFlags.h"
-#import "Three20Core/TTGlobalCoreRects.h"
+TTDebug.h
+TTDebugFlags.h
+TTGlobalCoreRects.h
 
 static const CGFloat kMargin = 0.0f;
 static const CGFloat kPadding = 0.0f;

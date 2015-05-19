@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-#import "Three20Style/TTStyleSheet.h"
+TTStyleSheet.h
 
 // Style
-#import "Three20Style/TTDefaultStyleSheet.h"
+TTDefaultStyleSheet.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 static TTStyleSheet* gStyleSheet = nil;
 

@@ -14,30 +14,30 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTStyledTextLabel.h"
+TTStyledTextLabel.h
 
 // UI
-#import "Three20UI/TTNavigator.h"
-#import "Three20UI/TTTableView.h"
-#import "Three20UI/UIViewAdditions.h"
+TTNavigator.h
+TTTableView.h
+UIViewAdditions.h
 
 // Style
-#import "Three20Style/TTGlobalStyle.h"
-#import "Three20Style/TTStyledText.h"
-#import "Three20Style/TTStyledNode.h"
-#import "Three20Style/TTStyleSheet.h"
-#import "Three20Style/TTStyledElement.h"
-#import "Three20Style/TTStyledLinkNode.h"
-#import "Three20Style/TTStyledButtonNode.h"
-#import "Three20Style/TTStyledTextNode.h"
+TTGlobalStyle.h
+TTStyledText.h
+TTStyledNode.h
+TTStyleSheet.h
+TTStyledElement.h
+TTStyledLinkNode.h
+TTStyledButtonNode.h
+TTStyledTextNode.h
 
 // - Styled frames
-#import "Three20Style/TTStyledInlineFrame.h"
-#import "Three20Style/TTStyledTextFrame.h"
+TTStyledInlineFrame.h
+TTStyledTextFrame.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTDebug.h"
+TTCorePreprocessorMacros.h
+TTDebug.h
 
 static const CGFloat kCancelHighlightThreshold = 4.0f;
 

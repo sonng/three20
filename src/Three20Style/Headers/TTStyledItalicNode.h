@@ -15,7 +15,7 @@
 //
 
 // Style
-#import "Three20Style/TTStyledInline.h"
+TTStyledInline.h
 
 @interface TTStyledItalicNode : TTStyledInline
 @end

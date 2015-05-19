@@ -14,12 +14,12 @@
 // limitations under the License.
 //
 
-#import "Three20Core/NSStringAdditions.h"
+NSStringAdditions.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTMarkupStripper.h"
-#import "Three20Core/NSDataAdditions.h"
+TTCorePreprocessorMacros.h
+TTMarkupStripper.h
+NSDataAdditions.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

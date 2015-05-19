@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-#import "Three20UI/private/TTTextEditorInternal.h"
+TTTextEditorInternal.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 // UI
-#import "Three20UI/TTTextEditorDelegate.h"
+TTTextEditorDelegate.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

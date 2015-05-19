@@ -17,7 +17,7 @@
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
 
-#import "Three20UINavigator/TTNavigatorPersistenceMode.h"
+TTNavigatorPersistenceMode.h
 
 @protocol TTNavigatorDelegate;
 @protocol TTNavigatorRootContainer;

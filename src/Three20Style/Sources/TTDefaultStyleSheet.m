@@ -14,42 +14,42 @@
 // limitations under the License.
 //
 
-#import "Three20Style/TTDefaultStyleSheet.h"
+TTDefaultStyleSheet.h
 
 // Style
-#import "Three20Style/TTGlobalStyle.h"
-#import "Three20Style/TTStyle.h"
-#import "Three20Style/UIColorAdditions.h"
+TTGlobalStyle.h
+TTStyle.h
+UIColorAdditions.h
 #import "Three20Style/TTDefaultStyleSheet+DragRefreshHeader.h"
 
 // - Styles
-#import "Three20Style/TTInsetStyle.h"
-#import "Three20Style/TTShapeStyle.h"
-#import "Three20Style/TTSolidFillStyle.h"
-#import "Three20Style/TTTextStyle.h"
-#import "Three20Style/TTImageStyle.h"
-#import "Three20Style/TTSolidBorderStyle.h"
-#import "Three20Style/TTShadowStyle.h"
-#import "Three20Style/TTInnerShadowStyle.h"
-#import "Three20Style/TTBevelBorderStyle.h"
-#import "Three20Style/TTLinearGradientFillStyle.h"
-#import "Three20Style/TTFourBorderStyle.h"
-#import "Three20Style/TTLinearGradientBorderStyle.h"
-#import "Three20Style/TTReflectiveFillStyle.h"
-#import "Three20Style/TTBoxStyle.h"
-#import "Three20Style/TTPartStyle.h"
-#import "Three20Style/TTContentStyle.h"
-#import "Three20Style/TTBlendStyle.h"
+TTInsetStyle.h
+TTShapeStyle.h
+TTSolidFillStyle.h
+TTTextStyle.h
+TTImageStyle.h
+TTSolidBorderStyle.h
+TTShadowStyle.h
+TTInnerShadowStyle.h
+TTBevelBorderStyle.h
+TTLinearGradientFillStyle.h
+TTFourBorderStyle.h
+TTLinearGradientBorderStyle.h
+TTReflectiveFillStyle.h
+TTBoxStyle.h
+TTPartStyle.h
+TTContentStyle.h
+TTBlendStyle.h
 
 // - Shapes
-#import "Three20Style/TTRectangleShape.h"
-#import "Three20Style/TTRoundedRectangleShape.h"
-#import "Three20Style/TTRoundedLeftArrowShape.h"
-#import "Three20Style/TTRoundedRightArrowShape.h"
+TTRectangleShape.h
+TTRoundedRectangleShape.h
+TTRoundedLeftArrowShape.h
+TTRoundedRightArrowShape.h
 
 // Network
-#import "Three20Network/TTGlobalNetwork.h"
-#import "Three20Network/TTURLCache.h"
+TTGlobalNetwork.h
+TTURLCache.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

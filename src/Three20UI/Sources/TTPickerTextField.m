@@ -14,20 +14,20 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTPickerTextField.h"
+TTPickerTextField.h
 
 // UI
-#import "Three20UI/TTPickerTextFieldDelegate.h"
-#import "Three20UI/TTTableViewDataSource.h"
-#import "Three20UI/TTPickerViewCell.h"
-#import "Three20UI/UIViewAdditions.h"
-#import "Three20Style/UIFontAdditions.h"
+TTPickerTextFieldDelegate.h
+TTTableViewDataSource.h
+TTPickerViewCell.h
+UIViewAdditions.h
+UIFontAdditions.h
 
 // UINavigator
-#import "Three20UINavigator/TTGlobalNavigatorMetrics.h"
+TTGlobalNavigatorMetrics.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 static NSString* kEmpty = @" ";
 static NSString* kSelected = @"`";

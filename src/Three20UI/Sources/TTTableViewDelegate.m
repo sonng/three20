@@ -14,34 +14,34 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTTableViewDelegate.h"
+TTTableViewDelegate.h
 
 // UI
-#import "Three20UI/TTNavigator.h"
-#import "Three20UI/TTTableViewDataSource.h"
-#import "Three20UI/TTTableViewController.h"
-#import "Three20UI/TTTableHeaderView.h"
-#import "Three20UI/TTTableView.h"
-#import "Three20UI/TTStyledTextLabel.h"
+TTNavigator.h
+TTTableViewDataSource.h
+TTTableViewController.h
+TTTableHeaderView.h
+TTTableView.h
+TTStyledTextLabel.h
 
 // - Table Items
-#import "Three20UI/TTTableItem.h"
-#import "Three20UI/TTTableLinkedItem.h"
-#import "Three20UI/TTTableButton.h"
-#import "Three20UI/TTTableMoreButton.h"
+TTTableItem.h
+TTTableLinkedItem.h
+TTTableButton.h
+TTTableMoreButton.h
 
 // - Table Item Cells
-#import "Three20UI/TTTableMoreButtonCell.h"
+TTTableMoreButtonCell.h
 
 // Style
-#import "Three20Style/TTGlobalStyle.h"
-#import "Three20Style/TTDefaultStyleSheet.h"
+TTGlobalStyle.h
+TTDefaultStyleSheet.h
 
 // Network
-#import "Three20Network/TTURLRequestQueue.h"
+TTURLRequestQueue.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 static const CGFloat kEmptyHeaderHeight = 0.0f;
 static const CGFloat kSectionHeaderHeight = 22.0f;

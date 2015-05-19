@@ -15,7 +15,7 @@
 //
 
 // UI
-#import "Three20UI/TTTableLinkedItemCell.h"
+TTTableLinkedItemCell.h
 
 @interface TTTableSettingsItemCell : TTTableLinkedItemCell
 

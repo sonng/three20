@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTSearchDisplayController.h"
+TTSearchDisplayController.h
 
 // UI
-#import "Three20UI/TTTableViewController.h"
-#import "Three20UI/TTTableViewDataSource.h"
+TTTableViewController.h
+TTTableViewDataSource.h
 
 // UICommon
-#import "Three20UICommon/TTGlobalUICommon.h"
+TTGlobalUICommon.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 const int kTTSearchBarBackgroundTag = 18942;
 

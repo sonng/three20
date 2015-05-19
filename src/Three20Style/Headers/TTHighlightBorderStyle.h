@@ -15,7 +15,7 @@
 //
 
 // Style
-#import "Three20Style/TTStyle.h"
+TTStyle.h
 
 @interface TTHighlightBorderStyle : TTStyle {
   UIColor*  _color;

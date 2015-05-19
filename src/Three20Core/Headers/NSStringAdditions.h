@@ -15,7 +15,7 @@
 //
 
 #import <Foundation/Foundation.h>
-#import "Three20Core/TTCorePreprocessorMacros.h" // For __TTDEPRECATED_METHOD
+TTCorePreprocessorMacros.h // For __TTDEPRECATED_METHOD
 
 /**
  * Doxygen does not handle categories very well, so please refer to the .m file in general

@@ -75,10 +75,10 @@
 
  */
 
-#import "extThree20JSON/SBJsonParser.h"
-#import "extThree20JSON/SBJsonWriter.h"
-#import "extThree20JSON/SBJsonStreamParser.h"
-#import "extThree20JSON/SBJsonStreamParserAdapter.h"
-#import "extThree20JSON/SBJsonStreamWriter.h"
+SBJsonParser.h
+SBJsonWriter.h
+SBJsonStreamParser.h
+SBJsonStreamParserAdapter.h
+SBJsonStreamWriter.h
 #import "extThree20JSON/NSObject+SBJson.h"
 

@@ -15,7 +15,7 @@
 //
 
 // UI
-#import "Three20UI/TTTableTextItem.h"
+TTTableTextItem.h
 
 @interface TTTableButton : TTTableTextItem
 @end

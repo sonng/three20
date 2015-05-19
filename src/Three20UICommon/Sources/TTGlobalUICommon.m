@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-#import "Three20UICommon/TTGlobalUICommon.h"
+TTGlobalUICommon.h
 
 // UI
-#import "Three20UICommon/UIWindowAdditions.h"
+UIWindowAdditions.h
 
 // Core
-#import "Three20Core/TTGlobalCoreLocale.h"
+TTGlobalCoreLocale.h
 
 #include <sys/types.h>
 #include <sys/sysctl.h>

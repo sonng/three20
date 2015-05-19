@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-#import "Three20Network/TTUserInfo.h"
+TTUserInfo.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

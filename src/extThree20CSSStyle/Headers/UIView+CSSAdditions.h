@@ -15,8 +15,8 @@
 //
 #import <UIKit/UIKit.h>
 
-#import "extThree20CSSStyle/TTCSSRuleSet.h"
-#import "extThree20CSSStyle/TTCSSApplyProtocol.h"
+TTCSSRuleSet.h
+TTCSSApplyProtocol.h
 
 @interface UIView(TTCSSAdditions) <TTCSSApplyProtocol>
 

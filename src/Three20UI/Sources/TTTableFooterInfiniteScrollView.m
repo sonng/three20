@@ -13,20 +13,20 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-#import "Three20UI/TTTableFooterInfiniteScrollView.h"
+TTTableFooterInfiniteScrollView.h
 
 // UI
-#import "Three20UI/UIViewAdditions.h"
+UIViewAdditions.h
 
 // Style
-#import "Three20Style/TTGlobalStyle.h"
-#import "Three20Style/TTDefaultStyleSheet.h"
+TTGlobalStyle.h
+TTDefaultStyleSheet.h
 
 // Network
-#import "Three20Network/TTURLCache.h"
+TTURLCache.h
 
 // Core
-#import "Three20Core/TTGlobalCoreLocale.h"
+TTGlobalCoreLocale.h
 
 #import <QuartzCore/QuartzCore.h>
 

@@ -15,7 +15,7 @@
 //
 
 // UI
-#import "Three20UI/TTTableCaptionItem.h"
+TTTableCaptionItem.h
 
 @interface TTTableSubtextItem : TTTableCaptionItem
 @end

@@ -14,25 +14,25 @@
 // limitations under the License.
 //
 
-#import "Three20UI/UINavigationControllerAdditions.h"
+UINavigationControllerAdditions.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 // UI
-#import "Three20UI/TTNavigator.h"
-#import "Three20UI/TTNavigationController.h"
+TTNavigator.h
+TTNavigationController.h
 
 // UINavigator
-#import "Three20UINavigator/TTURLMap.h"
+TTURLMap.h
 #import "Three20UINavigator/UIViewController+TTNavigator.h"
 
 // UICommon
-#import "Three20UICommon/TTGlobalUICommon.h"
-#import "Three20UICommon/UIViewControllerAdditions.h"
+TTGlobalUICommon.h
+UIViewControllerAdditions.h
 
 // Network
-#import "Three20Network/TTURLRequestQueue.h"
+TTURLRequestQueue.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

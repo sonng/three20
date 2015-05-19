@@ -17,19 +17,19 @@
 #import "TTExtensionsController.h"
 
 // UI
-#import "Three20UI/TTExtensionInfoController.h"
-#import "Three20UI/TTNavigator.h"
-#import "Three20UI/TTSectionedDataSource.h"
-#import "Three20UI/TTTableSubtitleItem.h"
-#import "Three20UI/TTTableLongTextItem.h"
+TTExtensionInfoController.h
+TTNavigator.h
+TTSectionedDataSource.h
+TTTableSubtitleItem.h
+TTTableLongTextItem.h
 
 // UINavigator
-#import "Three20UINavigator/TTURLMap.h"
+TTURLMap.h
 #import "Three20UINavigator/UIViewController+TTNavigator.h"
 
 // Core
-#import "Three20Core/TTExtensionInfo.h"
-#import "Three20Core/TTExtensionLoader.h"
+TTExtensionInfo.h
+TTExtensionLoader.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

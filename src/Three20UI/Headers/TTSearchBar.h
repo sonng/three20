@@ -15,7 +15,7 @@
 //
 
 // UI
-#import "Three20UI/TTView.h"
+TTView.h
 
 @protocol TTTableViewDataSource;
 @protocol TTSearchTextFieldDelegate;

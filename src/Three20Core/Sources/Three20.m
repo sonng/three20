@@ -14,9 +14,9 @@
 // limitations under the License.
 //
 
-#import "Three20Core/Three20.h"
+Three20.h
 
-#import "Three20Core/Three20Version.h"
+Three20Version.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

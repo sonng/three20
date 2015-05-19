@@ -17,7 +17,7 @@
 #import "UISplitViewController+TTNavigator.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

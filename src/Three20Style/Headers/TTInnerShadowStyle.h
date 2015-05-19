@@ -15,7 +15,7 @@
 //
 
 // Style
-#import "Three20Style/TTShadowStyle.h"
+TTShadowStyle.h
 
 @interface TTInnerShadowStyle : TTShadowStyle
 @end

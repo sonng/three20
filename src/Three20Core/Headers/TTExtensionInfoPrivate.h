@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "Three20Core/TTExtensionInfo.h"
+TTExtensionInfo.h
 
 
 @interface TTExtensionInfo (TTPrivate)

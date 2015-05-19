@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "Three20UINavigator/Three20UINavigator.h"
+Three20UINavigator.h
 
 // Additions
 #import "Three20UINavigator/UIViewController+TTNavigator.h"

@@ -15,10 +15,10 @@
 //
 
 // UI
-#import "Three20UI/TTView.h"
+TTView.h
 
 // Network
-#import "Three20Network/TTURLRequestDelegate.h"
+TTURLRequestDelegate.h
 
 @class TTURLRequest;
 @protocol TTImageViewDelegate;

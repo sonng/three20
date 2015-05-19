@@ -18,7 +18,7 @@
 #import <UIKit/UIKit.h>
 
 // UI
-#import "Three20UI/TTLauncherPersistenceMode.h"
+TTLauncherPersistenceMode.h
 
 @protocol TTLauncherViewDelegate;
 @class TTPageControl;

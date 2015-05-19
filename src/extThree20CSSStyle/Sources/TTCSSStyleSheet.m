@@ -14,22 +14,22 @@
 // limitations under the License.
 //
 
-#import "extThree20CSSStyle/TTCSSStyleSheet.h"
-#import "extThree20CSSStyle/TTCSSRuleSet.h"
-#import "extThree20CSSStyle/TTDataPopulator.h"
-#import "extThree20CSSStyle/TTDataConverter.h"
+TTCSSStyleSheet.h
+TTCSSRuleSet.h
+TTDataPopulator.h
+TTDataConverter.h
 
-#import "extThree20CSSStyle/TTCSSParser.h"
+TTCSSParser.h
 
 
 // Style
-#import "Three20Style/TTGlobalStyle.h"
-#import "Three20Style/TTStyle.h"
+TTGlobalStyle.h
+TTStyle.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTGlobalCore.h"
-#import "Three20Core/TTDebug.h"
+TTCorePreprocessorMacros.h
+TTGlobalCore.h
+TTDebug.h
 
 NSString* kCssPropertyColor           = @"color";
 NSString* kCssPropertyBackgroundColor = @"background-color";

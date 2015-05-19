@@ -15,19 +15,19 @@
 //
 
 // Core
-#import "Three20Core/Three20Core.h"
+Three20Core.h
 
 // Network
-#import "Three20Network/Three20Network.h"
+Three20Network.h
 
 // Style
-#import "Three20Style/Three20Style.h"
+Three20Style.h
 
 // UICommon
-#import "Three20UICommon/Three20UICommon.h"
+Three20UICommon.h
 
 // UINavigator
-#import "Three20UINavigator/Three20UINavigator.h"
+Three20UINavigator.h
 
 // UI
-#import "Three20UI/Three20UI.h"
+Three20UI.h

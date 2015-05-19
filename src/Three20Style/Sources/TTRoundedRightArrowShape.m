@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-#import "Three20Style/TTRoundedRightArrowShape.h"
+TTRoundedRightArrowShape.h
 
 // Style (private)
-#import "Three20Style/private/TTShapeInternal.h"
+TTShapeInternal.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

@@ -14,6 +14,6 @@
 // limitations under the License.
 //
 
-#import "Three20/Three20.h"
+Three20.h
 
 // Hello, world.

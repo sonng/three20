@@ -16,8 +16,8 @@
  */
 #import <objc/runtime.h>
 #import <Foundation/Foundation.h>
-#import "extThree20CSSStyle/TTDataConverter.h"
-#import "extThree20CSSStyle/TTDataPopulatorDelegate.h"
+TTDataConverter.h
+TTDataPopulatorDelegate.h
 
 /**
  * \nosubgrouping

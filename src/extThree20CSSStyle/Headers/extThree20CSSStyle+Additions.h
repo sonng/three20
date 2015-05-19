@@ -15,10 +15,10 @@
 //
 
 // CSS Style
-#import "extThree20CSSStyle/extThree20CSSStyle.h"
+extThree20CSSStyle.h
 
 // Additions
 #import "extThree20CSSStyle/UIView+CSSAdditions.h"
 #import "extThree20CSSStyle/UILabel+CSSAdditions.h"
-#import "extThree20CSSStyle/TTTextStyleAdditions.h"
-#import "extThree20CSSStyle/TTShadowStyleAdditions.h"
+TTTextStyleAdditions.h
+TTShadowStyleAdditions.h

@@ -15,7 +15,7 @@
 //
 
 // Style
-#import "Three20Style/TTStyledBlock.h"
+TTStyledBlock.h
 
 @interface TTStyledLineBreakNode : TTStyledBlock
 @end

@@ -15,10 +15,10 @@
 //
 
 // UI
-#import "Three20UI/TTModelViewController.h"
-#import "Three20UI/TTScrollViewDelegate.h"
-#import "Three20UI/TTScrollViewDataSource.h"
-#import "Three20UI/TTThumbsViewControllerDelegate.h"
+TTModelViewController.h
+TTScrollViewDelegate.h
+TTScrollViewDataSource.h
+TTThumbsViewControllerDelegate.h
 
 @protocol TTPhotoSource;
 @class TTScrollView;

@@ -22,7 +22,7 @@
 #import "TTCSSRuleSet.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 @interface CssRuleSetTests : SenTestCase {
 	TTCSSRuleSet *_ruleSet;

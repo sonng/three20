@@ -14,16 +14,16 @@
 // limitations under the License.
 //
 
-#import "Three20UI/UIViewAdditions.h"
+UIViewAdditions.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 // UINavigator
-#import "Three20UINavigator/TTGlobalNavigatorMetrics.h"
+TTGlobalNavigatorMetrics.h
 
 // UICommon
-#import "Three20UICommon/TTGlobalUICommon.h"
+TTGlobalUICommon.h
 
 
 // Remove GSEvent and UITouchAdditions from Release builds

@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-#import "Three20UI/UIWebViewAdditions.h"
+UIWebViewAdditions.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 // UI
-#import "Three20UI/UIViewAdditions.h"
+UIViewAdditions.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

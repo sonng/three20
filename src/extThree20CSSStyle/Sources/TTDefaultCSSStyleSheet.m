@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-#import "extThree20CSSStyle/TTDefaultCSSStyleSheet.h"
-#import "extThree20CSSStyle/TTCSSRuleSet.h"
+TTDefaultCSSStyleSheet.h
+TTCSSRuleSet.h
 
 // extThree20CSSStyle
-#import "extThree20CSSStyle/TTCSSStyleSheet.h"
-#import "extThree20CSSStyle/TTCSSApplyProtocol.h"
+TTCSSStyleSheet.h
+TTCSSApplyProtocol.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTDebug.h"
-#import "Three20Core/TTGlobalCorePaths.h"
+TTCorePreprocessorMacros.h
+TTDebug.h
+TTGlobalCorePaths.h
 
 NSString* kDefaultCSSPath = @"extThree20CSSStyle.bundle/stylesheets/default.css";
 

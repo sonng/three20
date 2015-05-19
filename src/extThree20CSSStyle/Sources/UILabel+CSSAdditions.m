@@ -16,7 +16,7 @@
 #import "extThree20CSSStyle/UILabel+CSSAdditions.h"
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 #ifdef __IPHONE_3_2
 #import <QuartzCore/QuartzCore.h>

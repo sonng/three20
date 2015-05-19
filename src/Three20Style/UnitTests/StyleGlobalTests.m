@@ -19,10 +19,10 @@
 #import <SenTestingKit/SenTestingKit.h>
 #import <UIKit/UIKit.h>
 
-#import "Three20Style/TTGlobalStyle.h"
+TTGlobalStyle.h
 
 // Core
-#import "Three20Core/TTGlobalCoreRects.h"
+TTGlobalCoreRects.h
 
 @interface UIGlobalTests : SenTestCase {
 }

@@ -14,7 +14,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-#import "extThree20CSSStyle/TTDataPopulator.h"
+TTDataPopulator.h
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 @implementation TTDataPopulator

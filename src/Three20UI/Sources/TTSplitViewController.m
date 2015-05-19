@@ -14,14 +14,14 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTSplitViewController.h"
+TTSplitViewController.h
 
 // UI
-#import "Three20UI/TTNavigator.h"
+TTNavigator.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTDebug.h"
+TTCorePreprocessorMacros.h
+TTDebug.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

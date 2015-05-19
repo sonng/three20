@@ -22,11 +22,11 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // Network
-#import "Three20Network/TTURLRequest.h"
-#import "Three20Network/TTURLRequestQueue.h"
+TTURLRequest.h
+TTURLRequestQueue.h
 
 // Core
-#import "Three20Core/TTGlobalCorePaths.h"
+TTGlobalCorePaths.h
 
 // duplicate constant for testing declared in Three20Network/TTURLRequestQueue.h
 static const NSTimeInterval kTimeout = 300.0;

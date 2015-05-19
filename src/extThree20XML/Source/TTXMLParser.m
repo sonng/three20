@@ -14,12 +14,12 @@
 // limitations under the License.
 //
 
-#import "extThree20XML/TTXMLParser.h"
+TTXMLParser.h
 
 // Core
-#import "Three20Core/TTGlobalCore.h"
-#import "Three20Core/TTCorePreprocessorMacros.h"
-#import "Three20Core/TTDebug.h"
+TTGlobalCore.h
+TTCorePreprocessorMacros.h
+TTDebug.h
 
 // XML attribute keys.
 static NSString* kCommonXMLKey_Type       = @"type";

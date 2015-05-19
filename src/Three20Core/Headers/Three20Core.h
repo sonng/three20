@@ -17,26 +17,26 @@
 // Core
 
 // - Global
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
-#import "Three20Core/Three20.h"
-#import "Three20Core/Three20Version.h"
-#import "Three20Core/TTGlobalCore.h"
-#import "Three20Core/TTGlobalCoreLocale.h"
-#import "Three20Core/TTGlobalCorePaths.h"
-#import "Three20Core/TTGlobalCoreRects.h"
-#import "Three20Core/TTAvailability.h"
+Three20.h
+Three20Version.h
+TTGlobalCore.h
+TTGlobalCoreLocale.h
+TTGlobalCorePaths.h
+TTGlobalCoreRects.h
+TTAvailability.h
 
 // - Debug
-#import "Three20Core/TTDebug.h"
+TTDebug.h
 
 // - Extensions
-#import "Three20Core/TTExtensionInfo.h"
-#import "Three20Core/TTExtensionAuthor.h"
-#import "Three20Core/TTExtensionLoader.h"
+TTExtensionInfo.h
+TTExtensionAuthor.h
+TTExtensionLoader.h
 
 // - Entity Tables
-#import "Three20Core/TTEntityTables.h"
+TTEntityTables.h
 
 // - Classes
-#import "Three20Core/TTMarkupStripper.h"
+TTMarkupStripper.h

@@ -14,14 +14,14 @@
 // limitations under the License.
 //
 
-#import "Three20UI/TTSectionedDataSource.h"
+TTSectionedDataSource.h
 
 // UI
-#import "Three20UI/TTTableItem.h"
-#import "Three20UI/TTTableSection.h"
+TTTableItem.h
+TTTableSection.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

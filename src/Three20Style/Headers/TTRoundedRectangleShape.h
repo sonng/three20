@@ -15,7 +15,7 @@
 //
 
 // Style
-#import "Three20Style/TTShape.h"
+TTShape.h
 
 @interface TTRoundedRectangleShape : TTShape {
   CGFloat _topLeftRadius;

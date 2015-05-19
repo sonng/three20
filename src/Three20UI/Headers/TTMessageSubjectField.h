@@ -15,7 +15,7 @@
 //
 
 // UI
-#import "Three20UI/TTMessageTextField.h"
+TTMessageTextField.h
 
 /**
  * A field for the subject of the message. This field's value is used to set

@@ -14,16 +14,16 @@
 // limitations under the License.
 //
 
-#import "Three20UI/UINSObjectAdditions.h"
+UINSObjectAdditions.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 // UI
-#import "Three20UI/TTNavigator.h"
+TTNavigator.h
 
 // UINavigator
-#import "Three20UINavigator/TTURLMap.h"
+TTURLMap.h
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

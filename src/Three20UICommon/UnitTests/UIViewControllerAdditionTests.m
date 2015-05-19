@@ -20,10 +20,10 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // UICommon
-#import "Three20UICommon/UIViewControllerAdditions.h"
+UIViewControllerAdditions.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 @interface UIViewControllerAdditionTests : SenTestCase {
 }

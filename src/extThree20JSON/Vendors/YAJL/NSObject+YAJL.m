@@ -28,11 +28,11 @@
 //
 
 #import "extThree20JSON/NSObject+YAJL.h"
-#import "extThree20JSON/YAJLGen.h"
-#import "extThree20JSON/YAJLDocument.h"
+YAJLGen.h
+YAJLDocument.h
 
 // Core
-#import "Three20Core/TTCorePreprocessorMacros.h"
+TTCorePreprocessorMacros.h
 
 TT_FIX_CATEGORY_BUG(NSObject_YAJL)
 

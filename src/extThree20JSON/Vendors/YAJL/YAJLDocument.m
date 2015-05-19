@@ -28,7 +28,7 @@
 //
 
 
-#import "extThree20JSON/YAJLDocument.h"
+YAJLDocument.h
 
 @interface YAJLDocument ()
 - (void)_pop;

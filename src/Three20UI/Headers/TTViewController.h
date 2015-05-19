@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "Three20UINavigator/TTNavigatorViewController.h"
+TTNavigatorViewController.h
 
 @class TTTableViewController;
 @class TTSearchDisplayController;

@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-#import "Three20Core/TTGlobalCorePaths.h"
+TTGlobalCorePaths.h
 
 
 static NSBundle* globalBundle = nil;

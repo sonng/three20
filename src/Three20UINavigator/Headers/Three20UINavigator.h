@@ -14,30 +14,30 @@
 // limitations under the License.
 //
 
-#import "Three20UINavigator/TTGlobalNavigatorMetrics.h"
+TTGlobalNavigatorMetrics.h
 
-#import "Three20UINavigator/TTURLObject.h"
+TTURLObject.h
 
 // - View Controllers
-#import "Three20UINavigator/TTNavigatorViewController.h"
-#import "Three20UINavigator/TTBaseNavigationController.h"
+TTNavigatorViewController.h
+TTBaseNavigationController.h
 
 // - Navigator
-#import "Three20UINavigator/TTNavigatorPersistenceMode.h"
-#import "Three20UINavigator/TTBaseNavigator.h"
-#import "Three20UINavigator/TTNavigatorDelegate.h"
-#import "Three20UINavigator/TTNavigatorRootContainer.h"
+TTNavigatorPersistenceMode.h
+TTBaseNavigator.h
+TTNavigatorDelegate.h
+TTNavigatorRootContainer.h
 
 // -- URL Action
-#import "Three20UINavigator/TTURLAction.h"
+TTURLAction.h
 
 // -- URL Map
-#import "Three20UINavigator/TTURLMap.h"
-#import "Three20UINavigator/TTNavigationMode.h"
+TTURLMap.h
+TTNavigationMode.h
 
 // -- URL Pattern
-#import "Three20UINavigator/TTURLPattern.h"
+TTURLPattern.h
 
 // --- Patterns
-#import "Three20UINavigator/TTURLGeneratorPattern.h"
-#import "Three20UINavigator/TTURLNavigatorPattern.h"
+TTURLGeneratorPattern.h
+TTURLNavigatorPattern.h
