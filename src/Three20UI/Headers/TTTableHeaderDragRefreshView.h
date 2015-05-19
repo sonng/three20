@@ -47,5 +47,6 @@ typedef enum {
 - (void)setCurrentDate;
 - (void)setUpdateDate:(NSDate*)date;
 - (void)setStatus:(TTTableHeaderDragRefreshStatus)status;
+- (NSDate *)lastUpdatedDate;
 
 @end

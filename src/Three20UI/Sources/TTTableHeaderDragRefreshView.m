@@ -187,6 +187,9 @@
   [self setUpdateDate:[NSDate date]];
 }
 
+- (NSDate *)lastUpdatedDate {
+	return _lastUpdatedDate;
+}
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 - (void)setStatus:(TTTableHeaderDragRefreshStatus)status {
