@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTTableViewController.h
+#import "Three20UI/TTTableViewController.h"
 
 @class TTExtensionInfo;
 

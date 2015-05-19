@@ -15,10 +15,10 @@
 //
 
 // UI
-TTPhotoVersion.h
+#import "Three20UI/TTPhotoVersion.h"
 
 // UINavigator
-TTURLObject.h
+#import "Three20UINavigator/TTURLObject.h"
 
 @protocol TTPhotoSource;
 

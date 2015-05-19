@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTBaseNavigator.h
+#import "Three20UINavigator/TTBaseNavigator.h"
 
 /**
  * Shortcut for calling [[TTNavigator navigator] openURL:]

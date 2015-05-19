@@ -14,11 +14,11 @@
 // limitations under the License.
 //
 
-TTThumbView.h
+#import "Three20UI/TTThumbView.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

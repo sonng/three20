@@ -12,18 +12,18 @@
 // License for the specific language governing permissions and limitations
 // under the License.
 
-UINSStringAdditions.h
+#import "Three20UI/UINSStringAdditions.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 // UI
-TTNavigator.h
+#import "Three20UI/TTNavigator.h"
 
 // UINavigator
-TTURLAction.h
-TTURLMap.h
-TTURLObject.h
+#import "Three20UINavigator/TTURLAction.h"
+#import "Three20UINavigator/TTURLMap.h"
+#import "Three20UINavigator/TTURLObject.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

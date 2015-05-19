@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTDebug.h
+#import "Three20Core/TTDebug.h"
 
 #ifdef DEBUG
 

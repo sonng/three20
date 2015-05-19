@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-UIFontAdditions.h
+#import "Three20Style/UIFontAdditions.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

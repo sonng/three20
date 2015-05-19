@@ -20,15 +20,15 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // Mocks
-MockModelDelegate.h
+#import "mocks/MockModelDelegate.h"
 
 // Network
-TTModel.h
-TTURLRequest.h
-TTURLRequestModel.h
+#import "Three20Network/TTModel.h"
+#import "Three20Network/TTURLRequest.h"
+#import "Three20Network/TTURLRequestModel.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 /**
  * Unit tests for the Network model found within Three20. These tests are a part of

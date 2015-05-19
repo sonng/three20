@@ -14,15 +14,15 @@
 // limitations under the License.
 //
 
-TTURLImageResponse.h
+#import "Three20Network/TTURLImageResponse.h"
 
 // Network
-TTErrorCodes.h
-TTURLRequest.h
-TTURLCache.h
+#import "Three20Network/TTErrorCodes.h"
+#import "Three20Network/TTURLRequest.h"
+#import "Three20Network/TTURLCache.h"
 
 // Core
-TTDebug.h
+#import "Three20Core/TTDebug.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

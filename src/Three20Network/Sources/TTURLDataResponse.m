@@ -14,11 +14,11 @@
 // limitations under the License.
 //
 
-TTURLDataResponse.h
+#import "Three20Network/TTURLDataResponse.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTDebug.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTDebug.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

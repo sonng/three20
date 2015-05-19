@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTExtensionLoader.h
+#import "Three20Core/TTExtensionLoader.h"
 
 @interface TTExtensionLoader (TTCSSStyleExtension)
 

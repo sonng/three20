@@ -15,7 +15,7 @@
 //
 
 // Style
-TTShape.h
+#import "Three20Style/TTShape.h"
 
 /**
  * The shape that defines a rectangular shape with a pointer.

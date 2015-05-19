@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-TTLauncherHighlightView.h
+#import "Three20UI/private/TTLauncherHighlightView.h"
 
 // UI
-TTLauncherButton.h
-TTLauncherView.h
+#import "Three20UI/TTLauncherButton.h"
+#import "Three20UI/TTLauncherView.h"
 
 // UICommon
-TTGlobalUICommon.h
+#import "Three20UICommon/TTGlobalUICommon.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 static const CGFloat kHighlightOverlayAlpha = 0.7f;
 static const CGFloat kSpotlightScaleFactor = 2.5f;

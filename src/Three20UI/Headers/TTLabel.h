@@ -15,7 +15,7 @@
 //
 
 // UI
-TTView.h
+#import "Three20UI/TTView.h"
 
 @interface TTLabel : TTView {
   NSString* _text;

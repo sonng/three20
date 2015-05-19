@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-NSObjectAdditions.h
+#import "Three20Core/NSObjectAdditions.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

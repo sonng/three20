@@ -15,7 +15,7 @@
 //
 
 // UI
-TTTabBar.h
+#import "Three20UI/TTTabBar.h"
 
 extern        CGFloat   kTabMargin;
 extern const  NSInteger kMaxBadgeNumber;

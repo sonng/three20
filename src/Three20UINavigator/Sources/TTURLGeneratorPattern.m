@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTURLGeneratorPattern.h
+#import "Three20UINavigator/TTURLGeneratorPattern.h"
 
 // UI (private)
-TTURLWildcard.h
+#import "Three20UINavigator/private/TTURLWildcard.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

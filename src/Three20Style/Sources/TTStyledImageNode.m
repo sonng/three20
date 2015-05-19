@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-TTStyledImageNode.h
+#import "Three20Style/TTStyledImageNode.h"
 
 // Network
-TTURLCache.h
+#import "Three20Network/TTURLCache.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

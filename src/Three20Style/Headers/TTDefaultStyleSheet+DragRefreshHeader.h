@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTDefaultStyleSheet.h
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 @interface TTDefaultStyleSheet (TTDragRefreshHeader)
 

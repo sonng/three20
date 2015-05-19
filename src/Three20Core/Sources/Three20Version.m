@@ -14,6 +14,6 @@
 // limitations under the License.
 //
 
-Three20Version.h
+#import "Three20Core/Three20Version.h"
 
 NSString* const Three20Version = @"1.0.12";

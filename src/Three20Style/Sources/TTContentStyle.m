@@ -14,11 +14,11 @@
 // limitations under the License.
 //
 
-TTContentStyle.h
+#import "Three20Style/TTContentStyle.h"
 
 // Style
-TTStyleContext.h
-TTStyleDelegate.h
+#import "Three20Style/TTStyleContext.h"
+#import "Three20Style/TTStyleDelegate.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

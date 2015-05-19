@@ -14,23 +14,23 @@
 // limitations under the License.
 //
 
-TTTableTextItemCell.h
+#import "Three20UI/TTTableTextItemCell.h"
 
 // UI
-UIViewAdditions.h
-UITableViewAdditions.h
+#import "Three20UI/UIViewAdditions.h"
+#import "Three20UI/UITableViewAdditions.h"
 
 // - Table items
-TTTableTextItem.h
-TTTableLongTextItem.h
-TTTableGrayTextItem.h
-TTTableButton.h
-TTTableLink.h
-TTTableSummaryItem.h
+#import "Three20UI/TTTableTextItem.h"
+#import "Three20UI/TTTableLongTextItem.h"
+#import "Three20UI/TTTableGrayTextItem.h"
+#import "Three20UI/TTTableButton.h"
+#import "Three20UI/TTTableLink.h"
+#import "Three20UI/TTTableSummaryItem.h"
 
 // Style
-TTDefaultStyleSheet.h
-TTGlobalStyle.h
+#import "Three20Style/TTDefaultStyleSheet.h"
+#import "Three20Style/TTGlobalStyle.h"
 
 static const CGFloat kMaxLabelHeight = 2000.0f;
 static const UILineBreakMode kLineBreakMode = UILineBreakModeWordWrap;

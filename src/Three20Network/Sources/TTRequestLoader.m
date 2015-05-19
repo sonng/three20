@@ -14,26 +14,26 @@
 // limitations under the License.
 //
 
-TTRequestLoader.h
+#import "Three20Network/private/TTRequestLoader.h"
 
 //Global
-TTErrorCodes.h
+#import "Three20Network/TTErrorCodes.h"
 
 // Network
-TTGlobalNetwork.h
-TTURLRequest.h
-TTURLRequestDelegate.h
-TTURLRequestQueue.h
-TTURLResponse.h
+#import "Three20Network/TTGlobalNetwork.h"
+#import "Three20Network/TTURLRequest.h"
+#import "Three20Network/TTURLRequestDelegate.h"
+#import "Three20Network/TTURLRequestQueue.h"
+#import "Three20Network/TTURLResponse.h"
 
 // Network (private)
-TTURLRequestQueueInternal.h
+#import "Three20Network/private/TTURLRequestQueueInternal.h"
 
 // Core
-NSDataAdditions.h
-NSObjectAdditions.h
-TTDebug.h
-TTDebugFlags.h
+#import "Three20Core/NSDataAdditions.h"
+#import "Three20Core/NSObjectAdditions.h"
+#import "Three20Core/TTDebug.h"
+#import "Three20Core/TTDebugFlags.h"
 
 @interface TTRequestLoader (Private)
 - (void)connection:(NSURLConnection*)connection didReceiveResponse:(NSHTTPURLResponse*)response ;

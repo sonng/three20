@@ -15,8 +15,8 @@
 //
 
 // UI
-TTPopupViewController.h
-TTTextEditorDelegate.h
+#import "Three20UI/TTPopupViewController.h"
+#import "Three20UI/TTTextEditorDelegate.h"
 
 @protocol TTTextBarDelegate;
 @class TTButton;

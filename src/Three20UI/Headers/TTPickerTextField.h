@@ -15,7 +15,7 @@
 //
 
 // UI
-TTSearchTextField.h
+#import "Three20UI/TTSearchTextField.h"
 
 @class TTPickerViewCell;
 

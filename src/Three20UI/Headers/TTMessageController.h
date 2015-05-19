@@ -15,8 +15,8 @@
 //
 
 // UI
-TTViewController.h
-TTTextEditorDelegate.h
+#import "Three20UI/TTViewController.h"
+#import "Three20UI/TTTextEditorDelegate.h"
 
 @protocol TTTableViewDataSource;
 @protocol TTMessageControllerDelegate;

@@ -15,7 +15,7 @@
 //
 
 // UI
-TTSearchTextFieldDelegate.h
+#import "Three20UI/TTSearchTextFieldDelegate.h"
 
 @class TTPickerTextField;
 

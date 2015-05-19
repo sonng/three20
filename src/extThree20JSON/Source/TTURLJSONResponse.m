@@ -14,20 +14,20 @@
 // limitations under the License.
 //
 
-TTURLJSONResponse.h
+#import "extThree20JSON/TTURLJSONResponse.h"
 
 // extJSON
-TTErrorCodes.h
+#import "extThree20JSON/TTErrorCodes.h"
 #ifdef EXTJSON_SBJSON
-SBJson.h
+#import "extThree20JSON/SBJson.h"
 #import "extThree20JSON/NSString+SBJSON.h"
 #elif defined(EXTJSON_YAJL)
 #import "extThree20JSON/NSObject+YAJL.h"
 #endif
 
 // Core
-TTCorePreprocessorMacros.h
-TTDebug.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTDebug.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

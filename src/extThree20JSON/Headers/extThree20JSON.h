@@ -14,5 +14,5 @@
 // limitations under the License.
 //
 
-TTErrorCodes.h
-TTURLJSONResponse.h
+#import "extThree20JSON/TTErrorCodes.h"
+#import "extThree20JSON/TTURLJSONResponse.h"

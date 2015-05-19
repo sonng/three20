@@ -14,14 +14,14 @@
 // limitations under the License.
 //
 
-TTButtonBar.h
+#import "Three20UI/TTButtonBar.h"
 
 // UI
-TTButton.h
-UIViewAdditions.h
+#import "Three20UI/TTButton.h"
+#import "Three20UI/UIViewAdditions.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 static CGFloat kPadding         = 10.0f;
 static CGFloat kButtonHeight    = 30.0f;

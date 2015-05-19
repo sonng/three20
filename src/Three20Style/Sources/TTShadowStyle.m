@@ -14,16 +14,16 @@
 // limitations under the License.
 //
 
-TTShadowStyle.h
+#import "Three20Style/TTShadowStyle.h"
 
 // Style
-TTStyleContext.h
-TTShape.h
+#import "Three20Style/TTStyleContext.h"
+#import "Three20Style/TTShape.h"
 
 // Core
-NSStringAdditions.h
-TTCorePreprocessorMacros.h
-TTGlobalCoreRects.h
+#import "Three20Core/NSStringAdditions.h"
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTGlobalCoreRects.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

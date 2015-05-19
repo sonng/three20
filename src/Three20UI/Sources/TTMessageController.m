@@ -14,36 +14,36 @@
 // limitations under the License.
 //
 
-TTMessageController.h
+#import "Three20UI/TTMessageController.h"
 
 // UI
-TTMessageControllerDelegate.h
-TTMessageRecipientField.h
-TTMessageTextField.h
-TTMessageSubjectField.h
-TTActivityLabel.h
-TTPickerTextField.h
-TTTextEditor.h
-TTTableViewDataSource.h
-UIViewAdditions.h
+#import "Three20UI/TTMessageControllerDelegate.h"
+#import "Three20UI/TTMessageRecipientField.h"
+#import "Three20UI/TTMessageTextField.h"
+#import "Three20UI/TTMessageSubjectField.h"
+#import "Three20UI/TTActivityLabel.h"
+#import "Three20UI/TTPickerTextField.h"
+#import "Three20UI/TTTextEditor.h"
+#import "Three20UI/TTTableViewDataSource.h"
+#import "Three20UI/UIViewAdditions.h"
 
 // UINavigator
-TTGlobalNavigatorMetrics.h
+#import "Three20UINavigator/TTGlobalNavigatorMetrics.h"
 
 // UICommon
-TTGlobalUICommon.h
-UIViewControllerAdditions.h
+#import "Three20UICommon/TTGlobalUICommon.h"
+#import "Three20UICommon/UIViewControllerAdditions.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTGlobalCoreLocale.h
-TTGlobalCoreRects.h
-NSStringAdditions.h
-TTGlobalCore.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTGlobalCoreLocale.h"
+#import "Three20Core/TTGlobalCoreRects.h"
+#import "Three20Core/NSStringAdditions.h"
+#import "Three20Core/TTGlobalCore.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

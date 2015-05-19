@@ -14,23 +14,23 @@
 // limitations under the License.
 //
 
-TTThumbsDataSource.h
+#import "Three20UI/TTThumbsDataSource.h"
 
 // UI
-TTPhotoSource.h
-TTTableMoreButton.h
-TTThumbsTableViewCell.h
+#import "Three20UI/TTPhotoSource.h"
+#import "Three20UI/TTTableMoreButton.h"
+#import "Three20UI/TTThumbsTableViewCell.h"
 
 // UINavigator
-TTGlobalNavigatorMetrics.h
+#import "Three20UINavigator/TTGlobalNavigatorMetrics.h"
 
 // Network
-TTGlobalNetwork.h
-TTURLCache.h
+#import "Three20Network/TTGlobalNetwork.h"
+#import "Three20Network/TTURLCache.h"
 
 // Core
-TTGlobalCoreLocale.h
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTGlobalCoreLocale.h"
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 static CGFloat kThumbSize = 75.0f;
 static CGFloat kThumbSpacing = 4.0f;

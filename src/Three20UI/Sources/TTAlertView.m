@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTAlertView.h
+#import "Three20UI/TTAlertView.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

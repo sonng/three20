@@ -15,7 +15,7 @@
 //
 
 // Style
-TTStyle.h
+#import "Three20Style/TTStyle.h"
 
 @interface TTInsetStyle : TTStyle {
   UIEdgeInsets _inset;

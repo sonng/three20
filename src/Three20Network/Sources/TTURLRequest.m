@@ -14,19 +14,19 @@
 // limitations under the License.
 //
 
-TTURLRequest.h
+#import "Three20Network/TTURLRequest.h"
 
 
 // Network
-TTGlobalNetwork.h
-TTURLResponse.h
-TTURLRequestQueue.h
+#import "Three20Network/TTGlobalNetwork.h"
+#import "Three20Network/TTURLResponse.h"
+#import "Three20Network/TTURLRequestQueue.h"
 
 // Core
-TTGlobalCore.h
-TTDebug.h
-TTDebugFlags.h
-NSStringAdditions.h
+#import "Three20Core/TTGlobalCore.h"
+#import "Three20Core/TTDebug.h"
+#import "Three20Core/TTDebugFlags.h"
+#import "Three20Core/NSStringAdditions.h"
 
 static NSString* kStringBoundary = @"3i2ndDfv2rTHiSisAbouNdArYfORhtTPEefj3q2f";
 const NSTimeInterval TTURLRequestUseQueueTimeout = -1.0;

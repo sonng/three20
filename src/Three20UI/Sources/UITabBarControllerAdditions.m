@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-UITabBarControllerAdditions.h
+#import "Three20UI/UITabBarControllerAdditions.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 // UI
-TTNavigator.h
-TTNavigationController.h
+#import "Three20UI/TTNavigator.h"
+#import "Three20UI/TTNavigationController.h"
 
 // UICommon
-UIViewControllerAdditions.h
+#import "Three20UICommon/UIViewControllerAdditions.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

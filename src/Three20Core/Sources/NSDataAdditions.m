@@ -14,12 +14,12 @@
 // limitations under the License.
 //
 
-NSDataAdditions.h
+#import "Three20Core/NSDataAdditions.h"
 
 #import <CommonCrypto/CommonDigest.h>
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

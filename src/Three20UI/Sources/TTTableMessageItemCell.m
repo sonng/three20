@@ -14,21 +14,21 @@
 // limitations under the License.
 //
 
-TTTableMessageItemCell.h
+#import "Three20UI/TTTableMessageItemCell.h"
 
 // UI
-TTImageView.h
-TTTableMessageItem.h
-UIViewAdditions.h
-UIFontAdditions.h
+#import "Three20UI/TTImageView.h"
+#import "Three20UI/TTTableMessageItem.h"
+#import "Three20UI/UIViewAdditions.h"
+#import "Three20Style/UIFontAdditions.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
-NSDateAdditions.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/NSDateAdditions.h"
 
 static const NSInteger  kMessageTextLineCount       = 2;
 static const CGFloat    kDefaultMessageImageWidth   = 34.0f;

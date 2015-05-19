@@ -15,7 +15,7 @@
 //
 
 // UI
-TTTableViewDataSource.h
+#import "Three20UI/TTTableViewDataSource.h"
 
 @protocol TTPhotoSource;
 @protocol TTThumbsTableViewCellDelegate;

@@ -14,13 +14,13 @@
 // limitations under the License.
 //
 
-TTSearchTextFieldInternal.h
+#import "Three20UI/private/TTSearchTextFieldInternal.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 // UI
-TTSearchTextField.h
+#import "Three20UI/TTSearchTextField.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

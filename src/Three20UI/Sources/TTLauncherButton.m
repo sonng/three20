@@ -14,19 +14,19 @@
 // limitations under the License.
 //
 
-TTLauncherButton.h
+#import "Three20UI/TTLauncherButton.h"
 
 // UI
-TTLauncherItem.h
-TTLabel.h
-UIViewAdditions.h
+#import "Three20UI/TTLauncherItem.h"
+#import "Three20UI/TTLabel.h"
+#import "Three20UI/UIViewAdditions.h"
 
 // Style
-TTGlobalStyle.h
-TTStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 static const NSInteger kMaxBadgeNumber = 99;
 

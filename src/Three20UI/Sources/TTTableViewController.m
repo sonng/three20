@@ -14,36 +14,36 @@
 // limitations under the License.
 //
 
-TTTableViewController.h
+#import "Three20UI/TTTableViewController.h"
 
 // UI
-TTNavigator.h
-TTActivityLabel.h
-TTErrorView.h
-TTListDataSource.h
-TTTableView.h
-TTTableViewDelegate.h
-TTTableViewVarHeightDelegate.h
-UIViewAdditions.h
-UITableViewAdditions.h
+#import "Three20UI/TTNavigator.h"
+#import "Three20UI/TTActivityLabel.h"
+#import "Three20UI/TTErrorView.h"
+#import "Three20UI/TTListDataSource.h"
+#import "Three20UI/TTTableView.h"
+#import "Three20UI/TTTableViewDelegate.h"
+#import "Three20UI/TTTableViewVarHeightDelegate.h"
+#import "Three20UI/UIViewAdditions.h"
+#import "Three20UI/UITableViewAdditions.h"
 
 // UINavigator
-TTURLObject.h
+#import "Three20UINavigator/TTURLObject.h"
 
 // UICommon
-TTGlobalUICommon.h
-UIViewControllerAdditions.h
+#import "Three20UICommon/TTGlobalUICommon.h"
+#import "Three20UICommon/UIViewControllerAdditions.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTGlobalCoreLocale.h
-TTGlobalCoreRects.h
-TTDebug.h
-TTDebugFlags.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTGlobalCoreLocale.h"
+#import "Three20Core/TTGlobalCoreRects.h"
+#import "Three20Core/TTDebug.h"
+#import "Three20Core/TTDebugFlags.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTTableSettingsItemCell.h
+#import "Three20UI/TTTableSettingsItemCell.h"
 
 // UI
-TTTableSettingsItem.h
+#import "Three20UI/TTTableSettingsItem.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

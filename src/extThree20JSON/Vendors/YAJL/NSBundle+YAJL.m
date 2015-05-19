@@ -32,7 +32,7 @@
 #import "extThree20JSON/private/GHNSBundle+Utils.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 TT_FIX_CATEGORY_BUG(NSBundle_YAJL)
 

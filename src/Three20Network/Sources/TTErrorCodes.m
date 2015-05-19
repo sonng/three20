@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTErrorCodes.h
+#import "Three20Network/TTErrorCodes.h"
 
 NSString* const kTTNetworkErrorDomain = @"three20.network";
 NSInteger const kTTNetworkErrorCodeInvalidImage = 100;

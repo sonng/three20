@@ -14,14 +14,14 @@
 // limitations under the License.
 //
 
-TTCSSFunctions.h
-TTDataConverter.h
-TTGlobalStyle.h
+#import "extThree20CSSStyle/TTCSSFunctions.h"
+#import "extThree20CSSStyle/TTDataConverter.h"
+#import "Three20Style/TTGlobalStyle.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTDebug.h
-TTGlobalCorePaths.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTDebug.h"
+#import "Three20Core/TTGlobalCorePaths.h"
 
 
 // CSS3 Color Lookuptable (4.3. Extended color keywords): http://www.w3.org/TR/css3-color/#svg-color

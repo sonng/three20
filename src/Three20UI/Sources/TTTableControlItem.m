@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTTableControlItem.h
+#import "Three20UI/TTTableControlItem.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

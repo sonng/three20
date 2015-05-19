@@ -15,10 +15,10 @@
 //
 
 // UI
-TTViewController.h
+#import "Three20UI/TTViewController.h"
 
 // Network
-TTModelDelegate.h
+#import "Three20Network/TTModelDelegate.h"
 
 @protocol TTModel;
 

@@ -15,7 +15,7 @@
 //
 
 // UI
-TTModelViewController.h
+#import "Three20UI/TTModelViewController.h"
 
 @protocol TTWebControllerDelegate;
 

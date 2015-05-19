@@ -17,20 +17,20 @@
 #import "Three20UINavigator/UIViewController+TTNavigator.h"
 
 // UINavigator
-TTBaseNavigator.h
-TTURLMap.h
-TTNavigatorViewController.h
+#import "Three20UINavigator/TTBaseNavigator.h"
+#import "Three20UINavigator/TTURLMap.h"
+#import "Three20UINavigator/TTNavigatorViewController.h"
 
 // UICommon
-UIViewControllerAdditions.h
+#import "Three20UICommon/UIViewControllerAdditions.h"
 
 // UICommon (private)
-UIViewControllerGarbageCollection.h
+#import "Three20UICommon/private/UIViewControllerGarbageCollection.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTDebug.h
-TTDebugFlags.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTDebug.h"
+#import "Three20Core/TTDebugFlags.h"
 
 static NSMutableDictionary* gNavigatorURLs          = nil;
 

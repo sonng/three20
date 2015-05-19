@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTStyledLinkNode.h
+#import "Three20Style/TTStyledLinkNode.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

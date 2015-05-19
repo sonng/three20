@@ -20,10 +20,10 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // Network
-TTURLCache.h
+#import "Three20Network/TTURLCache.h"
 
 // Core
-TTGlobalCorePaths.h
+#import "Three20Core/TTGlobalCorePaths.h"
 
 @interface TTURLCache()
 

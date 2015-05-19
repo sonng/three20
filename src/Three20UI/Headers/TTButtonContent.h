@@ -17,7 +17,7 @@
 #import <UIKit/UIKit.h>
 
 // Network
-TTURLRequestDelegate.h
+#import "Three20Network/TTURLRequestDelegate.h"
 
 @class TTButton;
 @class TTStyle;

@@ -14,14 +14,14 @@
 // limitations under the License.
 //
 
-TTInnerShadowStyle.h
+#import "Three20Style/TTInnerShadowStyle.h"
 
 // Style
-TTStyleContext.h
-TTShape.h
+#import "Three20Style/TTStyleContext.h"
+#import "Three20Style/TTShape.h"
 
 // Core
-NSStringAdditions.h
+#import "Three20Core/NSStringAdditions.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

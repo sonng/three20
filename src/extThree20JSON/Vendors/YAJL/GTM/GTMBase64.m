@@ -16,7 +16,7 @@
 //  the License.
 //
 
-GTMBase64.h
+#import "extThree20JSON/private/GTMBase64.h"
 
 static const char *kBase64EncodeChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/";
 static const char *kWebSafeBase64EncodeChars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789-_";

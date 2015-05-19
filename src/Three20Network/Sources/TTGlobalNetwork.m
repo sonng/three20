@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTGlobalNetwork.h
+#import "Three20Network/TTGlobalNetwork.h"
 
 // Core
-TTDebug.h
+#import "Three20Core/TTDebug.h"
 
 #import <UIKit/UIKit.h>
 #import <pthread.h>

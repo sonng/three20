@@ -15,7 +15,7 @@
 //
 
 // Style
-TTStyle.h
+#import "Three20Style/TTStyle.h"
 
 @interface TTTextStyle : TTStyle {
   UIFont*   _font;

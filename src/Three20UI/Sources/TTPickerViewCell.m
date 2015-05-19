@@ -14,14 +14,14 @@
 // limitations under the License.
 //
 
-TTPickerViewCell.h
+#import "Three20UI/TTPickerViewCell.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 static const CGFloat kPaddingX = 8.0f;
 static const CGFloat kPaddingY = 3.0f;

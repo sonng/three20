@@ -15,7 +15,7 @@
 //
 
 // Global
-TTGlobalUICommon.h
+#import "Three20UICommon/TTGlobalUICommon.h"
 
 // - Controllers
-TTBaseViewController.h
+#import "Three20UICommon/TTBaseViewController.h"

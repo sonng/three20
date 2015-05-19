@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTImageLayer.h
+#import "Three20UI/private/TTImageLayer.h"
 
 // UI
-TTImageView.h
+#import "Three20UI/TTImageView.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

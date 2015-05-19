@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTShapeInternal.h
+#import "Three20Style/private/TTShapeInternal.h"
 
 const CGFloat kArrowPointWidth  = 2.8f;
 const CGFloat kArrowRadius      = 2.0f;

@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTBaseNavigationController.h
+#import "Three20UINavigator/TTBaseNavigationController.h"
 
 @interface TTNavigationController : TTBaseNavigationController {
 

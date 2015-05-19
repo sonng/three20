@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTNavigatorRootContainer.h
+#import "Three20UINavigator/TTNavigatorRootContainer.h"
 
 @class TTNavigator;
 

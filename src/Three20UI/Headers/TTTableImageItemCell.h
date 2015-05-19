@@ -15,7 +15,7 @@
 //
 
 // UI
-TTTableTextItemCell.h
+#import "Three20UI/TTTableTextItemCell.h"
 
 @class TTImageView;
 

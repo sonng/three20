@@ -15,7 +15,7 @@
 //
 
 // UI
-TTModelViewController.h
+#import "Three20UI/TTModelViewController.h"
 
 /**
  * A view controller which, when displayed modally, inserts its view over the parent controller.

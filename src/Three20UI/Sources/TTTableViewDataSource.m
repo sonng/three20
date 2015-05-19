@@ -14,48 +14,48 @@
 // limitations under the License.
 //
 
-TTTableViewDataSource.h
+#import "Three20UI/TTTableViewDataSource.h"
 
 // UI
-TTTextEditor.h
+#import "Three20UI/TTTextEditor.h"
 
 // - Table Items
-TTTableItem.h
-TTTableMoreButton.h
-TTTableSubtextItem.h
-TTTableRightCaptionItem.h
-TTTableCaptionItem.h
-TTTableSubtitleItem.h
-TTTableMessageItem.h
-TTTableImageItem.h
-TTTableStyledTextItem.h
-TTTableTextItem.h
-TTTableActivityItem.h
-TTTableControlItem.h
-TTTableSettingsItem.h
+#import "Three20UI/TTTableItem.h"
+#import "Three20UI/TTTableMoreButton.h"
+#import "Three20UI/TTTableSubtextItem.h"
+#import "Three20UI/TTTableRightCaptionItem.h"
+#import "Three20UI/TTTableCaptionItem.h"
+#import "Three20UI/TTTableSubtitleItem.h"
+#import "Three20UI/TTTableMessageItem.h"
+#import "Three20UI/TTTableImageItem.h"
+#import "Three20UI/TTTableStyledTextItem.h"
+#import "Three20UI/TTTableTextItem.h"
+#import "Three20UI/TTTableActivityItem.h"
+#import "Three20UI/TTTableControlItem.h"
+#import "Three20UI/TTTableSettingsItem.h"
 
 // - Table Cells
-TTTableMoreButtonCell.h
-TTTableSubtextItemCell.h
-TTTableRightCaptionItemCell.h
-TTTableCaptionItemCell.h
-TTTableSubtitleItemCell.h
-TTTableMessageItemCell.h
-TTTableImageItemCell.h
-TTStyledTextTableItemCell.h
-TTTableActivityItemCell.h
-TTTableControlCell.h
-TTTableTextItemCell.h
-TTStyledTextTableCell.h
-TTTableFlushViewCell.h
-TTTableSettingsItemCell.h
+#import "Three20UI/TTTableMoreButtonCell.h"
+#import "Three20UI/TTTableSubtextItemCell.h"
+#import "Three20UI/TTTableRightCaptionItemCell.h"
+#import "Three20UI/TTTableCaptionItemCell.h"
+#import "Three20UI/TTTableSubtitleItemCell.h"
+#import "Three20UI/TTTableMessageItemCell.h"
+#import "Three20UI/TTTableImageItemCell.h"
+#import "Three20UI/TTStyledTextTableItemCell.h"
+#import "Three20UI/TTTableActivityItemCell.h"
+#import "Three20UI/TTTableControlCell.h"
+#import "Three20UI/TTTableTextItemCell.h"
+#import "Three20UI/TTStyledTextTableCell.h"
+#import "Three20UI/TTTableFlushViewCell.h"
+#import "Three20UI/TTTableSettingsItemCell.h"
 
 // Style
-TTStyledText.h
+#import "Three20Style/TTStyledText.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTGlobalCoreLocale.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTGlobalCoreLocale.h"
 
 #import <objc/runtime.h>
 

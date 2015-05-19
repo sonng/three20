@@ -14,34 +14,34 @@
 // limitations under the License.
 //
 
-TTPhotoView.h
+#import "Three20UI/TTPhotoView.h"
 
 // UI
-TTPhoto.h
-TTPhotoSource.h
-TTLabel.h
-UIViewAdditions.h
+#import "Three20UI/TTPhoto.h"
+#import "Three20UI/TTPhotoSource.h"
+#import "Three20UI/TTLabel.h"
+#import "Three20UI/UIViewAdditions.h"
 
 // UI (private)
-TTImageViewInternal.h
+#import "Three20UI/private/TTImageViewInternal.h"
 
 // UINavigator
-TTGlobalNavigatorMetrics.h
+#import "Three20UINavigator/TTGlobalNavigatorMetrics.h"
 
 // UICommon
-TTGlobalUICommon.h
+#import "Three20UICommon/TTGlobalUICommon.h"
 
 // Style
-TTGlobalStyle.h
-TTStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTStyleSheet.h"
 
 // Network
-TTURLCache.h
-TTURLRequestQueue.h
+#import "Three20Network/TTURLCache.h"
+#import "Three20Network/TTURLRequestQueue.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTGlobalCoreLocale.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTGlobalCoreLocale.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

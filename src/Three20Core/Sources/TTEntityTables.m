@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTEntityTables.h
+#import "Three20Core/TTEntityTables.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

@@ -14,18 +14,18 @@
 // limitations under the License.
 //
 
-TTURLMap.h
+#import "Three20UINavigator/TTURLMap.h"
 
 // UINavigator
-TTURLNavigatorPattern.h
-TTURLGeneratorPattern.h
+#import "Three20UINavigator/TTURLNavigatorPattern.h"
+#import "Three20UINavigator/TTURLGeneratorPattern.h"
 
 // UINavigator (private)
 #import "Three20UINavigator/private/UIViewController+TTNavigatorGarbageCollection.h"
 
 // Core
-TTGlobalCore.h
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTGlobalCore.h"
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 #import <objc/runtime.h>
 

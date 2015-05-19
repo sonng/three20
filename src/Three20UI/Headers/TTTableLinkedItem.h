@@ -15,7 +15,7 @@
 //
 
 // UI
-TTTableItem.h
+#import "Three20UI/TTTableItem.h"
 
 @interface TTTableLinkedItem : TTTableItem {
   // If a URL is specified, TTNavigator will be used. Otherwise, the delegate+selector will

@@ -15,7 +15,7 @@
 //
 
 // UINavigator (private)
-TTURLArgumentType.h
+#import "Three20UINavigator/private/TTURLArgumentType.h"
 
 TTURLArgumentType TTConvertArgumentType(char argType);
 TTURLArgumentType TTURLArgumentTypeForProperty(Class cls, NSString* propertyName);

@@ -25,7 +25,7 @@
 //
 
 // UI
-TTTableViewVarHeightDelegate.h
+#import "Three20UI/TTTableViewVarHeightDelegate.h"
 
 @class TTTableHeaderDragRefreshView;
 @protocol TTModel;

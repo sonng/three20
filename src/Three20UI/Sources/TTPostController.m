@@ -14,31 +14,31 @@
 // limitations under the License.
 //
 
-TTPostController.h
+#import "Three20UI/TTPostController.h"
 
 // UI
-TTNavigator.h
-TTPostControllerDelegate.h
-TTActivityLabel.h
-TTView.h
-UIViewAdditions.h
+#import "Three20UI/TTNavigator.h"
+#import "Three20UI/TTPostControllerDelegate.h"
+#import "Three20UI/TTActivityLabel.h"
+#import "Three20UI/TTView.h"
+#import "Three20UI/UIViewAdditions.h"
 
 // UINavigator
-TTGlobalNavigatorMetrics.h
+#import "Three20UINavigator/TTGlobalNavigatorMetrics.h"
 
 // UICommon
-TTGlobalUICommon.h
-UIViewControllerAdditions.h
+#import "Three20UICommon/TTGlobalUICommon.h"
+#import "Three20UICommon/UIViewControllerAdditions.h"
 
 // Style
-TTGlobalStyle.h
-TTStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTStyleSheet.h"
 
 // Core
-TTGlobalCoreLocale.h
-TTCorePreprocessorMacros.h
-NSStringAdditions.h
-TTGlobalCore.h
+#import "Three20Core/TTGlobalCoreLocale.h"
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/NSStringAdditions.h"
+#import "Three20Core/TTGlobalCore.h"
 
 static const CGFloat kMarginX = 5.0f;
 static const CGFloat kMarginY = 6.0f;

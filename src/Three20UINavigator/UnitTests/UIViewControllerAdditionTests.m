@@ -22,10 +22,10 @@
 #import "Three20UINavigator/UIViewController+TTNavigator.h"
 
 // UICommon
-UIViewControllerAdditions.h
+#import "Three20UICommon/UIViewControllerAdditions.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 @interface UIViewControllerAdditionTests : SenTestCase {
 }

@@ -15,7 +15,7 @@
 //
 
 // UI
-TTPopupViewController.h
+#import "Three20UI/TTPopupViewController.h"
 
 @protocol TTPostControllerDelegate;
 @class TTActivityLabel;

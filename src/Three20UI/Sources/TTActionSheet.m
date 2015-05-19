@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTActionSheet.h
+#import "Three20UI/TTActionSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

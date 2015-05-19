@@ -15,7 +15,7 @@
 //
 
 // Style
-TTStyledElement.h
+#import "Three20Style/TTStyledElement.h"
 
 @interface TTStyledBlock : TTStyledElement
 @end

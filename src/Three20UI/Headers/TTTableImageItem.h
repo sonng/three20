@@ -15,7 +15,7 @@
 //
 
 // UI
-TTTableTextItem.h
+#import "Three20UI/TTTableTextItem.h"
 
 @class TTStyle;
 

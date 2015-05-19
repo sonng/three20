@@ -19,8 +19,8 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // Core
-TTCorePreprocessorMacros.h
-TTMarkupStripper.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTMarkupStripper.h"
 
 /**
  * Unit tests for the markup stripper found within Three20. These tests are a part of

@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-TTCSSRuleSet.h
-TTCSSFunctions.h
+#import "extThree20CSSStyle/TTCSSRuleSet.h"
+#import "extThree20CSSStyle/TTCSSFunctions.h"
 
 // Style
-TTGlobalStyle.h
-TTStyle.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTStyle.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTGlobalCore.h
-TTDebug.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTGlobalCore.h"
+#import "Three20Core/TTDebug.h"
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////
 @implementation TTCSSRuleSet

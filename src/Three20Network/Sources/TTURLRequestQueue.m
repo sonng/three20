@@ -14,24 +14,24 @@
 // limitations under the License.
 //
 
-TTURLRequestQueue.h
+#import "Three20Network/TTURLRequestQueue.h"
 
 // Network
-TTGlobalNetwork.h
-TTURLRequest.h
-TTURLRequestDelegate.h
-TTUserInfo.h
-TTURLResponse.h
-TTURLCache.h
+#import "Three20Network/TTGlobalNetwork.h"
+#import "Three20Network/TTURLRequest.h"
+#import "Three20Network/TTURLRequestDelegate.h"
+#import "Three20Network/TTUserInfo.h"
+#import "Three20Network/TTURLResponse.h"
+#import "Three20Network/TTURLCache.h"
 
 // Network (Private)
-TTRequestLoader.h
+#import "Three20Network/private/TTRequestLoader.h"
 
 // Core
-TTGlobalCore.h
-TTGlobalCorePaths.h
-TTDebugFlags.h
-TTDebug.h
+#import "Three20Core/TTGlobalCore.h"
+#import "Three20Core/TTGlobalCorePaths.h"
+#import "Three20Core/TTDebugFlags.h"
+#import "Three20Core/TTDebug.h"
 
 static const NSTimeInterval kFlushDelay = 0.3;
 static const NSTimeInterval kTimeout = 300.0;

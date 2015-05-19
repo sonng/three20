@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-TTStyledImageFrame.h
+#import "Three20Style/TTStyledImageFrame.h"
 
 // Style
-TTStyledImageNode.h
-TTStyleContext.h
-TTShape.h
-TTImageStyle.h
-UIImageAdditions.h
+#import "Three20Style/TTStyledImageNode.h"
+#import "Three20Style/TTStyleContext.h"
+#import "Three20Style/TTShape.h"
+#import "Three20Style/TTImageStyle.h"
+#import "Three20Style/UIImageAdditions.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-TTErrorView.h
+#import "Three20UI/TTErrorView.h"
 
 // UI
-UIViewAdditions.h
+#import "Three20UI/UIViewAdditions.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 static const CGFloat kVPadding1 = 30.0f;
 static const CGFloat kVPadding2 = 10.0f;

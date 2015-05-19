@@ -14,21 +14,21 @@
 // limitations under the License.
 //
 
-TTTableLinkedItemCell.h
+#import "Three20UI/TTTableLinkedItemCell.h"
 
 // UI
-TTNavigator.h
-TTTableLinkedItem.h
+#import "Three20UI/TTNavigator.h"
+#import "Three20UI/TTTableLinkedItem.h"
 
 // UINavigator
-TTURLMap.h
+#import "Three20UINavigator/TTURLMap.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

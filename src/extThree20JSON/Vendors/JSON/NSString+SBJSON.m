@@ -28,10 +28,10 @@
  */
 
 #import "extThree20JSON/NSString+SBJSON.h"
-SBJsonParser.h
+#import "extThree20JSON/SBJsonParser.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 TT_FIX_CATEGORY_BUG(NSString_SBJSON)

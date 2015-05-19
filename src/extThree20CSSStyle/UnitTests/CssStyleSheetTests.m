@@ -19,10 +19,10 @@
 
 #import <SenTestingKit/SenTestingKit.h>
 
-TTCSSStyleSheet.h
+#import "extThree20CSSStyle/TTCSSStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 @interface CssStyleSheetTests : SenTestCase {
   TTCSSStyleSheet* _styleSheet;

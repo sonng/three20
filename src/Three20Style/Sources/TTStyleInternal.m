@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTStyleInternal.h
+#import "Three20Style/private/TTStyleInternal.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 const NSInteger kDefaultLightSource = 125;

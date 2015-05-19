@@ -19,10 +19,10 @@
 
 #import <SenTestingKit/SenTestingKit.h>
 
-TTCSSParser.h
+#import "extThree20CSSStyle/TTCSSParser.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 @interface CssParserTests : SenTestCase {
 }

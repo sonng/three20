@@ -14,15 +14,15 @@
 // limitations under the License.
 //
 
-TTExtensionLoader.h
+#import "Three20Core/TTExtensionLoader.h"
 
 // Core
-TTCorePreprocessorMacros.h
-TTDebug.h
-TTExtensionInfo.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
+#import "Three20Core/TTDebug.h"
+#import "Three20Core/TTExtensionInfo.h"
 
 // Core (private)
-TTExtensionInfoPrivate.h
+#import "Three20Core/private/TTExtensionInfoPrivate.h"
 
 #import <objc/runtime.h>
 

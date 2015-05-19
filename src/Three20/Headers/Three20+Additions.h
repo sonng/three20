@@ -15,7 +15,7 @@
 //
 
 // Three20, without additions.
-Three20.h
+#import "Three20/Three20.h"
 
 // Core Additions
 #import "Three20Core/Three20Core+Additions.h"

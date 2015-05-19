@@ -20,10 +20,10 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // extXML
-TTXMLParser.h
+#import "extThree20XML/TTXMLParser.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 /**
  * Unit tests for the Core XML parser. These tests are a part of the comprehensive test suite

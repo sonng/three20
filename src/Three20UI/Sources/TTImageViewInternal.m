@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-TTImageViewInternal.h
+#import "Three20UI/private/TTImageViewInternal.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 // UI
-TTImageViewDelegate.h
-UIViewAdditions.h
+#import "Three20UI/TTImageViewDelegate.h"
+#import "Three20UI/UIViewAdditions.h"
 
 // UI (private)
-TTImageLayer.h
+#import "Three20UI/private/TTImageLayer.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

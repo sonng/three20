@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-TTTextView.h
+#import "Three20UI/private/TTTextView.h"
 
 // UI
-UIViewAdditions.h
+#import "Three20UI/UIViewAdditions.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

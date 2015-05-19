@@ -15,7 +15,7 @@
 //
 
 // UI
-TTTableSubtitleItemCell.h
+#import "Three20UI/TTTableSubtitleItemCell.h"
 
 @interface TTTableMoreButtonCell : TTTableSubtitleItemCell {
   UIActivityIndicatorView*  _activityIndicatorView;

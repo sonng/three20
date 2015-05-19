@@ -14,32 +14,32 @@
 // limitations under the License.
 //
 
-TTSearchTextField.h
+#import "Three20UI/TTSearchTextField.h"
 
 // UI
-TTNavigator.h
-TTView.h
-TTSearchTextFieldDelegate.h
-TTTableView.h
-TTTableViewCell.h
-TTTableViewDataSource.h
-UIViewAdditions.h
+#import "Three20UI/TTNavigator.h"
+#import "Three20UI/TTView.h"
+#import "Three20UI/TTSearchTextFieldDelegate.h"
+#import "Three20UI/TTTableView.h"
+#import "Three20UI/TTTableViewCell.h"
+#import "Three20UI/TTTableViewDataSource.h"
+#import "Three20UI/UIViewAdditions.h"
 
 // UI (private)
-TTSearchTextFieldInternal.h
+#import "Three20UI/private/TTSearchTextFieldInternal.h"
 
 // UINavigator
-TTGlobalNavigatorMetrics.h
+#import "Three20UINavigator/TTGlobalNavigatorMetrics.h"
 
 // UICommon
-TTGlobalUICommon.h
+#import "Three20UICommon/TTGlobalUICommon.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 static const CGFloat kShadowHeight = 24.0f;
 static const CGFloat kDesiredTableHeight = 150.0f;

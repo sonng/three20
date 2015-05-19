@@ -24,21 +24,21 @@
 //  THE SOFTWARE.
 //
 
-TTTableHeaderDragRefreshView.h
+#import "Three20UI/TTTableHeaderDragRefreshView.h"
 
 // UICommon
-TTGlobalUICommon.h
+#import "Three20UICommon/TTGlobalUICommon.h"
 
 // Style
-TTGlobalStyle.h
+#import "Three20Style/TTGlobalStyle.h"
 #import "Three20Style/TTDefaultStyleSheet+DragRefreshHeader.h"
 
 // Network
-TTURLCache.h
+#import "Three20Network/TTURLCache.h"
 
 // Core
-TTGlobalCoreLocale.h
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTGlobalCoreLocale.h"
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 #import <QuartzCore/QuartzCore.h>
 

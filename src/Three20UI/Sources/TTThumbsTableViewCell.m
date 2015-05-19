@@ -14,17 +14,17 @@
 // limitations under the License.
 //
 
-TTThumbsTableViewCell.h
+#import "Three20UI/TTThumbsTableViewCell.h"
 
 // UI
-TTThumbView.h
-TTThumbsTableViewCellDelegate.h
-TTPhotoVersion.h
-TTPhotoSource.h
-TTPhoto.h
+#import "Three20UI/TTThumbView.h"
+#import "Three20UI/TTThumbsTableViewCellDelegate.h"
+#import "Three20UI/TTPhotoVersion.h"
+#import "Three20UI/TTPhotoSource.h"
+#import "Three20UI/TTPhoto.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 static const CGFloat kSpacing = 4.0f;
 static const CGFloat kDefaultThumbSize = 75.0f;

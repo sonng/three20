@@ -16,7 +16,7 @@
 
 #import <Foundation/Foundation.h>
 #import <UIKit/UIKit.h>
-TTDataPopulatorDelegate.h
+#import "extThree20CSSStyle/TTDataPopulatorDelegate.h"
 
 /**
  * A general purpose CSS style sheet object for accessing a CSS style sheet's properties.

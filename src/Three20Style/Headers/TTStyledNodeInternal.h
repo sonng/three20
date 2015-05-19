@@ -15,7 +15,7 @@
 //
 
 // Style
-TTStyledNode.h
+#import "Three20Style/TTStyledNode.h"
 
 @interface TTStyledNode (TTInternal)
 

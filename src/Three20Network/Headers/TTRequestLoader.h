@@ -17,10 +17,10 @@
 #import <Foundation/Foundation.h>
 
 // Network
-TTURLRequestCachePolicy.h
+#import "Three20Network/TTURLRequestCachePolicy.h"
 
 // Core
-TTCorePreprocessorMacros.h // For __TTDEPRECATED_METHOD
+#import "Three20Core/TTCorePreprocessorMacros.h" // For __TTDEPRECATED_METHOD
 
 @class TTURLRequestQueue;
 @class TTURLRequest;

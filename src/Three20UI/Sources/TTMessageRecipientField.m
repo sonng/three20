@@ -14,14 +14,14 @@
 // limitations under the License.
 //
 
-TTMessageRecipientField.h
+#import "Three20UI/TTMessageRecipientField.h"
 
 // UI
-TTPickerTextField.h
-TTMessageController.h
+#import "Three20UI/TTPickerTextField.h"
+#import "Three20UI/TTMessageController.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

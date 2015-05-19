@@ -15,7 +15,7 @@
 //
 
 // Network
-TTURLResponse.h
+#import "Three20Network/TTURLResponse.h"
 
 /**
  * An implementation of the TTURLResponse protocal for turning XML responses into NSObjects.

@@ -14,7 +14,7 @@
 // limitations under the License.
 //
 
-TTTableViewVarHeightDelegate.h
+#import "Three20UI/TTTableViewVarHeightDelegate.h"
 
 @class TTTableHeaderDragRefreshView, TTTableFooterInfiniteScrollView;
 @protocol TTModel, TTTableNetworkEnabledTableViewController;

@@ -14,16 +14,16 @@
 // limitations under the License.
 //
 
-TTTableSubtextItemCell.h
+#import "Three20UI/TTTableSubtextItemCell.h"
 
 // UI
-TTTableSubtextItem.h
-UITableViewAdditions.h
-UIViewAdditions.h
+#import "Three20UI/TTTableSubtextItem.h"
+#import "Three20UI/UITableViewAdditions.h"
+#import "Three20UI/UIViewAdditions.h"
 
 // Style
-TTGlobalStyle.h
-TTDefaultStyleSheet.h
+#import "Three20Style/TTGlobalStyle.h"
+#import "Three20Style/TTDefaultStyleSheet.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

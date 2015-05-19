@@ -14,10 +14,10 @@
 // limitations under the License.
 //
 
-UIWindowAdditions.h
+#import "Three20UICommon/UIWindowAdditions.h"
 
 // Core
-TTCorePreprocessorMacros.h
+#import "Three20Core/TTCorePreprocessorMacros.h"
 
 
 ///////////////////////////////////////////////////////////////////////////////////////////////////

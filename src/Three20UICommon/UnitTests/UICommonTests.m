@@ -19,7 +19,7 @@
 #import <SenTestingKit/SenTestingKit.h>
 
 // UICommon
-TTGlobalUICommon.h
+#import "Three20UICommon/TTGlobalUICommon.h"
 
 @interface UICommonTests : SenTestCase {
 }
