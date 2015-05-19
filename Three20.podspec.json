@@ -106,6 +106,7 @@
       "header_mappings_dir": "src/Three20Network/Headers",
       "dependencies": {
         "Three20/Core": [
+				"~>1.0.0"
 
         ]
       }
@@ -118,9 +119,11 @@
       "header_mappings_dir": "src/Three20Style/Headers",
       "dependencies": {
         "Three20/Core": [
+				"~>1.0.0"
 
         ],
         "Three20/Network": [
+				"~>1.0.0"
 
         ]
       }
@@ -133,6 +136,7 @@
       "header_mappings_dir": "src/Three20UICommon/Headers",
       "dependencies": {
         "Three20/Core": [
+				"~>1.0.0"
 
         ]
       },
@@ -149,9 +153,11 @@
       "header_mappings_dir": "src/Three20UINavigator/Headers",
       "dependencies": {
         "Three20/Core": [
+				"~>1.0.0"
 
         ],
         "Three20/UICommon": [
+				"~>1.0.0"
 
         ]
       }
@@ -165,18 +171,23 @@
       "frameworks": "QuartzCore",
       "dependencies": {
         "Three20/Core": [
+				"~>1.0.0"
 
         ],
         "Three20/Network": [
+				"~>1.0.0"
 
         ],
         "Three20/Style": [
+				"~>1.0.0"
 
         ],
         "Three20/UICommon": [
+				"~>1.0.0"
 
         ],
         "Three20/UINavigator": [
+				"~>1.0.0"
 
         ]
       }
@@ -193,12 +204,15 @@
           "resources": "src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle",
           "dependencies": {
             "Three20/Core": [
+				"~>1.0.0"
 
             ],
             "Three20/Network": [
+				"~>1.0.0"
 
             ],
             "Three20/Style": [
+				"~>1.0.0"
 
             ]
           }
@@ -210,9 +224,11 @@
           "header_mappings_dir": "src/extThree20JSON/Headers",
           "dependencies": {
             "Three20/Core": [
+				"~>1.0.0"
 
             ],
             "Three20/Network": [
+				"~>1.0.0"
 
             ]
           }
@@ -226,7 +242,7 @@
           },
           "dependencies": {
             "Three20/ext/JSON": [
-
+				"~>1.0.0"
             ]
           }
         },
@@ -247,6 +263,7 @@
           },
           "dependencies": {
             "Three20/ext/JSON": [
+				"~>1.0.0"
 
             ]
           }
@@ -257,9 +274,11 @@
           "header_dir": "extThree20XML",
           "dependencies": {
             "Three20/Core": [
+				"~>1.0.0"
 
             ],
             "Three20/Network": [
+				"~>1.0.0"
 
             ]
           }
