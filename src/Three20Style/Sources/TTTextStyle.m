@@ -262,11 +262,14 @@
     context.contentFrame = titleRect;
 
   } else {
-    CGRect titleRect = [self rectForText:text forSize:rect.size withFont:font];
-    titleRect = CGRectOffset(titleRect, rect.origin.x, rect.origin.y);
-    rect.size = [text drawInRect:titleRect withFont:font lineBreakMode:_lineBreakMode
-                       alignment:_textAlignment];
-    context.contentFrame = rect;
+      CGRect titleRect = [self rectForText:text forSize:rect.size withFont:font];
+      titleRect = CGRectOffset(titleRect, rect.origin.x, rect.origin.y);
+      NSMutableParagraphStyle *paragrafo = [[NSParagraphStyle defaultParagraphStyle] mutableCopy];
+      paragrafo.lineBreakMode = _lineBreakMode;
+      paragrafo.alignment = _textAlignment;
+      NSDictionary *attributes = @{ NSFontAttributeName: font, NSParagraphStyleAttributeName: paragrafo, NSForegroundColorAttributeName: _color };
+      [text drawInRect:titleRect withAttributes:attributes];
+      context.contentFrame = rect;
   }
 
   CGContextRestoreGState(ctx);
