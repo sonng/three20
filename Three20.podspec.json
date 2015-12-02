@@ -93,15 +93,13 @@
       "name": "Core",
       "source_files": "src/Three20Core/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20Core/Headers/TTExtensionInfoPrivate.h",
-      "header_dir": "Three20Core",
-      "header_mappings_dir": "src/Three20Core/Headers"
+      "header_dir": "Three20Core"
     },
     {
       "name": "Network",
       "source_files": "src/Three20Network/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20Network/Headers/{TTRequestLoader,TTURLRequestQueueInternal}.h",
       "header_dir": "Three20Network",
-      "header_mappings_dir": "src/Three20Network/Headers",
       "dependencies": {
         "Three20/Core": [
 				"~>1.0.0"
@@ -114,7 +112,6 @@
       "source_files": "src/Three20Style/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20Style/Headers/{TTShapeInternal,TTStyledNodeInternal,TTStyleInternal}.h",
       "header_dir": "Three20Style",
-      "header_mappings_dir": "src/Three20Style/Headers",
       "dependencies": {
         "Three20/Core": [
 				"~>1.0.0"
@@ -131,7 +128,6 @@
       "source_files": "src/Three20UICommon/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20UICommon/Headers/UIViewControllerGarbageCollection.h",
       "header_dir": "Three20UICommon",
-      "header_mappings_dir": "src/Three20UICommon/Headers",
       "dependencies": {
         "Three20/Core": [
 				"~>1.0.0"
@@ -148,7 +144,6 @@
       "source_files": "src/Three20UINavigator/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20UINavigator/Headers/{TTBaseNavigatorInternal,TTURLArguments,TTURLArgumentType,TTURLLiteral,TTURLPatternInternal,TTURLPatternText,TTURLSelector,TTURLWildcard,UIViewController+TTNavigatorGarbageCollection}.h",
       "header_dir": "Three20UINavigator",
-      "header_mappings_dir": "src/Three20UINavigator/Headers",
       "dependencies": {
         "Three20/Core": [
 				"~>1.0.0"
@@ -165,7 +160,6 @@
       "source_files": "src/Three20UI/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20UI/Headers/{TTButtonContent,TTImageLayer,TTImageViewInternal,TTLauncherHighlightView,TTLauncherScrollView,TTNavigatorWindow,TTSearchTextFieldInternal,TTTabBarInternal,TTTextEditorInternal,TTTextView}.h",
       "header_dir": "Three20UI",
-      "header_mappings_dir": "src/Three20UI/Headers",
       "frameworks": "QuartzCore",
       "dependencies": {
         "Three20/Core": [
@@ -198,7 +192,6 @@
           "source_files": "src/extThree20CSSStyle/{Sources,Headers,ThirdPart}/*.{h,m}",
           "private_header_files": "src/extThree20CSSStyle/Headers/CssTokens.h",
           "header_dir": "extThree20CSSStyle",
-          "header_mappings_dir": "src/extThree20CSSStyle/Headers",
           "resources": "src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle",
           "dependencies": {
             "Three20/Core": [
@@ -219,7 +212,6 @@
           "name": "JSON",
           "source_files": "src/extThree20JSON/{Source,Headers}/**/*.{h,m}",
           "header_dir": "extThree20JSON",
-          "header_mappings_dir": "src/extThree20JSON/Headers",
           "dependencies": {
             "Three20/Core": [
 				"~>1.0.0"
