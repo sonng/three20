@@ -92,14 +92,12 @@
     {
       "name": "Core",
       "source_files": "src/Three20Core/{Sources,Headers}/**/*.{h,m}",
-      "private_header_files": "src/Three20Core/Headers/TTExtensionInfoPrivate.h",
-      "header_dir": "Three20Core"
+      "private_header_files": "src/Three20Core/Headers/TTExtensionInfoPrivate.h"
     },
     {
       "name": "Network",
       "source_files": "src/Three20Network/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20Network/Headers/{TTRequestLoader,TTURLRequestQueueInternal}.h",
-      "header_dir": "Three20Network",
       "dependencies": {
         "Three20/Core": [
 				"~>1.0.0"
@@ -111,7 +109,6 @@
       "name": "Style",
       "source_files": "src/Three20Style/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20Style/Headers/{TTShapeInternal,TTStyledNodeInternal,TTStyleInternal}.h",
-      "header_dir": "Three20Style",
       "dependencies": {
         "Three20/Core": [
 				"~>1.0.0"
@@ -127,7 +124,6 @@
       "name": "UICommon",
       "source_files": "src/Three20UICommon/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20UICommon/Headers/UIViewControllerGarbageCollection.h",
-      "header_dir": "Three20UICommon",
       "dependencies": {
         "Three20/Core": [
 				"~>1.0.0"
@@ -143,7 +139,6 @@
       "name": "UINavigator",
       "source_files": "src/Three20UINavigator/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20UINavigator/Headers/{TTBaseNavigatorInternal,TTURLArguments,TTURLArgumentType,TTURLLiteral,TTURLPatternInternal,TTURLPatternText,TTURLSelector,TTURLWildcard,UIViewController+TTNavigatorGarbageCollection}.h",
-      "header_dir": "Three20UINavigator",
       "dependencies": {
         "Three20/Core": [
 				"~>1.0.0"
@@ -159,7 +154,6 @@
       "name": "UI",
       "source_files": "src/Three20UI/{Sources,Headers}/**/*.{h,m}",
       "private_header_files": "src/Three20UI/Headers/{TTButtonContent,TTImageLayer,TTImageViewInternal,TTLauncherHighlightView,TTLauncherScrollView,TTNavigatorWindow,TTSearchTextFieldInternal,TTTabBarInternal,TTTextEditorInternal,TTTextView}.h",
-      "header_dir": "Three20UI",
       "frameworks": "QuartzCore",
       "dependencies": {
         "Three20/Core": [
@@ -191,7 +185,6 @@
           "name": "CSSStyle",
           "source_files": "src/extThree20CSSStyle/{Sources,Headers,ThirdPart}/*.{h,m}",
           "private_header_files": "src/extThree20CSSStyle/Headers/CssTokens.h",
-          "header_dir": "extThree20CSSStyle",
           "resources": "src/extThree20CSSStyle/Resources/extThree20CSSStyle.bundle",
           "dependencies": {
             "Three20/Core": [
@@ -211,7 +204,6 @@
         {
           "name": "JSON",
           "source_files": "src/extThree20JSON/{Source,Headers}/**/*.{h,m}",
-          "header_dir": "extThree20JSON",
           "dependencies": {
             "Three20/Core": [
 				"~>1.0.0"
@@ -226,7 +218,6 @@
         {
           "name": "SBJSON",
           "source_files": "src/extThree20JSON/Vendors/JSON/*.{h,m}",
-          "header_dir": "extThree20JSON",
           "xcconfig": {
             "GCC_PREPROCESSOR_DEFINITIONS": "$(inherited) EXTJSON_SBJSON"
           },
@@ -247,7 +238,6 @@
             "src/extThree20JSON/Vendors/YAJL/{GHKit,GTM}/*.h",
             "src/extThree20JSON/Vendors/YAJL/yajl/src/*.h"
           ],
-          "header_dir": "extThree20JSON",
           "xcconfig": {
             "GCC_PREPROCESSOR_DEFINITIONS": "$(inherited) EXTJSON_YAJL"
           },
@@ -261,7 +251,6 @@
         {
           "name": "XML",
           "source_files": "src/extThree20XML/{Source,Headers}/*.{h,m}",
-          "header_dir": "extThree20XML",
           "dependencies": {
             "Three20/Core": [
 				"~>1.0.0"
